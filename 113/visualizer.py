@@ -4,7 +4,7 @@ import random
 import math 
 import numpy as np
 
-mersenne_twister_data = [np.round(random.random()*300) for i in range(0, 2500)]
+mersenne_twister_data = [random.random() for i in range(0, 2500)]
 
 def convert_to_coords(data):
     xs = []
