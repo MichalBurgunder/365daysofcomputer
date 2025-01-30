@@ -38,10 +38,27 @@ function rule(matrix, i, j)
         
 end
 
+function resize(maze, new_size)
+    m, n = size(maze)
+    new_maze = Array{Bool}(undef, new_size*m, new_size*n)
+
+    for i in 0:m-1
+        for new_row in 1:new_size
+            for j in 0:n-1
+                for new_column in 1:new_size
+                    new_maze[i*new_size+new_row, j*new_size+new_column] = maze[i+1, j+1]
+                end
+            end
+        end 
+    end
+
+    return new_maze
+end
+
 function single_timestep(matrix, the_size)
-    new_matrix = falses(the_size, the_size)
-    for i in range(1, the_size)
-        for j in range(1, the_size)
+    new_matrix = falses(the_size[1], the_size[2])
+    for i in range(1, the_size[1])
+        for j in range(1, the_size[2])
             new_matrix[i,j] = rule(matrix, i, j)
         end
     end
@@ -52,9 +69,9 @@ end
 
 function insert_object(matrix, location, offsets)
     i, j = location
-    
-    for os in range(1, size(offsets)[1])
-        oi, oj = offsets[os]
+
+    for os in offsets
+        oi, oj = os
         matrix[i+oi, j+oj] = 1
     end
 end
@@ -62,7 +79,7 @@ end
 images_directory = "/Users/michal/Documents/365daysofcomputer/365daysofcomputer-code/157/images"
 file_name = "conway"
 
-function gif_creation(steps)
+function gif_creation(steps, fps)
     images = []
 
     for i in 1:steps
@@ -72,9 +89,8 @@ function gif_creation(steps)
     end
 
     # create the gif
-    framerate = 100
-    gifname = "/Users/michal/Documents/365daysofcomputer/365daysofcomputer-code/157/conways_glider.gif"
-    FFMPEG.ffmpeg_exe(`-framerate $(framerate) -f image2 -i $(images_directory)/%04d.png -y $(gifname)`)
+    gifname = "/Users/michal/Documents/365daysofcomputer/365daysofcomputer-code/157/random_gol.gif"
+    FFMPEG.ffmpeg_exe(`-framerate $(fps) -f image2 -i $(images_directory)/%04d.png -y $(gifname)`)
 
     # we remove the images, as we now have our gif
     # rm(images_directory, recursive=true)
@@ -95,7 +111,7 @@ end
 
 function shave_off_squares(matrix, squares=10)
     n, m = size(matrix)
-    new_matrix = falses(n-squares, n-squares)
+    new_matrix = falses(n-2*squares, m-2*squares)
 
     for i in 1:n-2*squares
         for j in 1:m-2*squares
@@ -106,52 +122,51 @@ function shave_off_squares(matrix, squares=10)
     return new_matrix
 end
 
-function conways_game_of_life(the_size=100, steps=100)
-    matrix = falses(the_size, the_size)
+function conways_game_of_life(the_size=(100,100), steps=100, objects=[], size_multiplier=5,shave=10,random_board=false)
+    matrix = falses(the_size[1], the_size[2])
 
-    insert_object(matrix, (Int(the_size/2),Int(the_size/2)), [[-1,0], [1,0], [1,1], [1,-1], [0,1]])
-    # matrix[1,1] = 1
+    for obj in objects
+        insert_object(matrix, (Int(the_size[1]/2),Int(the_size[2]/2)), obj)
+    end
 
-    # println(matrix)
-    # println(matrix[1,1])
-    # exit()
-    mat_to_save = shave_off_squares(matrix)
+    create_random_board(matrix)
+
+    mat_to_save = resize(shave_off_squares(matrix, shave),size_multiplier)
     save_image(mat_to_save)
 
     for i in 1:steps
         new_matrix = single_timestep(matrix, the_size)
-        # println(new_matrix)
-        # exit()
-        mat_to_save2 = shave_off_squares(matrix)
+        mat_to_save2 = resize(shave_off_squares(new_matrix, shave),size_multiplier)
         save_image(mat_to_save2)
         matrix = new_matrix
     end
-
-
-
-    # final_path = 
-
-
-    # idxarray = rand(1:3, 100, 100, 50);
-    gif_creation(steps)
-
-#     # Create a plot (heatmap works well for images)
-#     plt = heatmap(all_matricies[1])
-
-#     # Animation for GIF
-#     anim = @animate for i in 2:size(all_matricies)[1]
-#         # Modify the plot or data (e.g., rotate, scale, etc.)
-#         heatmap!(all_matricies[i])
-#     end
-
-# # Save as GIF
-#     gif(anim, final_path, fps=10)
-
-    # for i in 1:size(all_matricies)[1]
-    #     frame(animation, all_matricies[i])
-    # end
-
-    # gif(animation, final_path, fps = 10)
+    gif_creation(steps, fps)
 end
 
-conways_game_of_life()
+function create_random_board(matrix)
+    for i in 1:10000
+        matrix[rand(range(1,matrix_size[1])),rand(range(1,matrix_size[2]))] = rand((0,1))
+    end
+end
+
+matrix_size = (90,120)
+steps = 200
+size_multiplier = 15
+shave = 20 # 100
+fps = 10
+random_board = true
+
+# glider
+# objects = [[[-1,0], [1,0], [1,1], [1,-1], [0,1]]]
+# glider gun
+# objects = [[
+#     [0,0],[-1,-1],[0,-1],[1,-1],[-2,-2],[2,-2],[0,-3], # tip
+#     [0,-7],[1,-7,],[-1,-7],[-2,-6],[2,-6],[-3,-5],[3,-5],[-3,-4],[3,-4], # left shell
+#     [0,-16],[0,-17,],[-1,-16],[-1,-17], # left square
+#     [-1,3],[-2,3],[-3,3],[-1,4],[-2,4],[-3,4],[0,5],[-4,5], # right segment
+#     [0,7],[1,7],[-4,7],[-5,7], # right line
+#     [-2,17],[-3,17],[-2,18],[-3,18], # right square
+#     ]]
+
+objects = []
+conways_game_of_life(matrix_size, steps, objects, size_multiplier, shave, random_board)
