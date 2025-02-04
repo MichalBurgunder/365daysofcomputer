@@ -1,0 +1,9 @@
+*.png
+*.out
+*.gif
+*.bmp
+
+test.*
+playground.*
+
+_archive/*
