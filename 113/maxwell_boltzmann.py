@@ -16,7 +16,7 @@ probability_densities = maxwell.pdf(speeds, scale=scale_param)
 
 num_bins = 70
 plt.figure(figsize=(10, 6))
-plt.hist(speeds, bins=num_bins, weights=probability_densities, color=(62/256, 19/256, 139/256), edgecolor='black')
+plt.hist(speeds, bins=num_bins, weights=probability_densities, color=(97/256, 0/256, 198/256), edgecolor='black')
 plt.title("Maxwell-Boltzmann Distribution at 292K")
 plt.xlabel("Speed (m/s)")
 plt.ylabel("Probability Density")
