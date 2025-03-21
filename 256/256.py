@@ -26,7 +26,7 @@ print(res2)
 
 # custom hashing
 sha256_result = sha256_hash_it()
-md5_result = md5_hash_it()
+md5_result = md5_hash_it(text)
 
 print(sha256_result)
 print(md5_result)
