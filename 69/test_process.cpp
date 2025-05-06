@@ -9,7 +9,6 @@ int main()
 
  while (true) {
     int i = 9;
-
  }
 
   cout << "...done! Exiting";
