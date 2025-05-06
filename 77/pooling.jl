@@ -26,11 +26,8 @@ for i in 1:new_n-1
         r = [0.0,0.0,0.0]
         for sq_i in 1:ss
             for sq_j in 1:ss
-                # println("made it here")
                 r[1] += image[ss*i+sq_i,ss*j+sq_j].r
-                # println("here")
                 r[2] += image[ss*i+sq_i, ss*j+sq_j].g
-                # println("here2")
                 r[3] += image[ss*i+sq_i, ss*j+sq_j].b
             end
         end

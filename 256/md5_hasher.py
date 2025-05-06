@@ -1,9 +1,6 @@
-
-
 import hashlib
 import random
 import math
-import os
 
 def generate_random_md5():
     arr = "0123456789abcdef"
