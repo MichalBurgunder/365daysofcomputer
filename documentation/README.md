@@ -4,7 +4,7 @@
 
 ## The Markdown language
 
-The Markdown language is a markup language (annoying, eh?) that provides basic structures to document stuff. When the markdown file is syntactically correct, it can "beautify" the document by automatically parsing the written text and applying its features is a eye-pleasing way, such as adding margins. It's got many different things it can do:
+The Markdown language is a markup language (annoying, eh?) that provides basic structures to document stuff. When the markdown file is syntactically correct, it can "beautify" the document by automatically parsing (compiling/assembling) the written text and applying its features is a eye-pleasing way, such as adding margins. It's got many different things it can do:
 
 Differently sized headers, tables, 
 
@@ -15,12 +15,10 @@ Differently sized headers, tables,
 
 ## Markup languages
 
-There are plenty of different Markup languages, although there really are only two lanugages which remain in widespread use:
+There are plenty of different Markup languages, although there really are only two languages which remain in widespread use:
 
 
 | Name | Description |
 | - | - |
 | Markdown | This language provides support for software documentation |
 | HTML | *Hypertext Markup Language* is the primary language to write websites. This language allows one to write *JavaScript* source code, such that one can display things by programming them in.|
-
-
