@@ -2,21 +2,24 @@
 // 
 // The code below creates a basic window with button in it. Despite the code below being the same, if you run the program on different operating systems (more specifically, on machines with a different window manager), you result in a different-looking window. 
 import javax.swing.*;
-import java.awt.event.*;
+import java.awt.*;
 
-public class SampleJavaWindow {
+public class OneWindow {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("Sample Java Window");
-        frame.setSize(260, 150);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        // frame.setLayout(null);
+        frame.setSize(260, 130);
+        frame.setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS));
 
         JLabel label = new JLabel("Hello there!");
-
         JButton okButton = new JButton("General Kenobi!");
-        okButton.setBounds(50, 35, 160, 50);
 
+        label.setAlignmentX(Component.CENTER_ALIGNMENT);
+        okButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+
+        frame.add(Box.createVerticalStrut(20));
+        frame.add(label);
+        frame.add(Box.createVerticalStrut(10));
         frame.add(okButton);
 
         frame.setVisible(true);
