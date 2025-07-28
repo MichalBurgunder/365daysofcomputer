@@ -2,12 +2,20 @@
 *.out
 *.gif
 *.bmp
+*.jpg
+*.jpeg
 
 test.*
 playground.*
 
 _archive/*
+*/_archive/*
 
 .vscode
 
 .DS_Store
+
+*.class
+
+java-docs
+
