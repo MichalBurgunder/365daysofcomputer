@@ -4,6 +4,13 @@
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * The Calculator class provides simple arithmetic operations.
+ * 
+ * @author 365 Days of Computer
+ * @version 0.1
+ */
+
 public class OneWindow {
 
     public static void main(String[] args) {
@@ -23,5 +30,14 @@ public class OneWindow {
         frame.add(okButton);
 
         frame.setVisible(true);
+    }
+    /**
+    * @param  number_1  an integer
+    * @param  number_2 another integer
+    * @return      the image at the specified URL
+    * @see         Image
+    **/
+    public int add_two_integers(int number_1, int number_2) {
+        return number_1 + number_2;
     }
 }
