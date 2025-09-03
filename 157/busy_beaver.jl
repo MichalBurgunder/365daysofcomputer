@@ -112,8 +112,10 @@ transition_function = [
 ]
 
 
+# NOTE: the two varialbes below should remain the same in order to guarantee completion. Otherwise, if a TM can overflow. 
 line_length = 50
 steps = 50
+
 size_multiplier = 20
 shave = 0 # how many pixels should be shaved from the sides
 fps = 1
