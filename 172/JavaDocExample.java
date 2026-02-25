@@ -1,8 +1,14 @@
 // Here we give an example of generating a JavaDoc, done using the javadoc
 // software. To generate the documentation you need JavaDocs installed ("brew
-// install javadocs" I assume, if you are on a mac) and then compile the file
-// ("javac JavaDocExample.java") and run the command "javadoc -d java-docs
-// JavaDocExample.java"
+// install javadocs", if you are on a mac), then compile the file by executing
+//
+// "javac JavaDocExample.java"
+// 
+// and run the command
+//
+// "javadoc -d java-docs JavaDocExample.java"
+//
+// Once executed, open java-docs/index.html
 
 /**
  * This is a Basic class to illustrate the JavaDoc functionality. It has two
