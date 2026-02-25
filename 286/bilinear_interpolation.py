@@ -1,3 +1,7 @@
+# BILINEAR INTERPOLATION
+
+# This work was primarily taken from one of my assignments for my Master's
+# degree, hence the difference in style. Given that code made much more sense when I wrote it many years ago, I have left it as is.
 import cv2
 import numpy as np
 import math

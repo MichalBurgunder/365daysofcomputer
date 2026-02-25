@@ -1,3 +1,8 @@
+# FAULTY ROTATION OF IMAGES
+
+# This work was primarily taken from one of my assignments for my Master's
+# degree, hence the difference in style. You might need to run this program in Google Colab in order to get it to work.
+
 import cv2
 import numpy as np
 import math
