@@ -1,3 +1,5 @@
+# TEXT HASHER
+
 import hashlib
 
 # place the text you wish to hash in between the apostrophies
