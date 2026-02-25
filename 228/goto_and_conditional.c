@@ -1,3 +1,4 @@
+// GOTO WITH CONDTIONAL DEMONSTRATION
 #include  <stdio.h>
 
 int main() {

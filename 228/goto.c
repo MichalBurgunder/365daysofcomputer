@@ -1,30 +1,22 @@
+// GOTO EXAMPLE
 #include  <stdio.h>
 
+// as code is execute from the top line downards, line 10 marks a point in the
+// code where we can return to by invoking the 'goto' command. As a result, this
+// program will run forever. You can verify this yourself uncommenting line 15
+// and running the program. 
+
 int main() {
-    int i = 0;
-    unsigned char arr[] = {
-        0b11011000, // 216   
-        0b11001011, // 203
-        0b00110110, // 54
-        0b00101011  // 43
-    };
+    basic_goto: 
 
-    char task = 0b00110110; // 54
-    char result;
+    // ...
+    // ...some code...
+    // ...
+    printf("Hello there");
 
-    goto start;
-    
-    start:
-        result = task ^ arr[i]; // XORing every bit
+    goto basic_goto;
 
-        if(result == 0x00000000) {
-            printf("%d\n", i);
-            return 0;
-        }
-        i++;
-    goto start;
+    return 0;
 }
-
-
 
 

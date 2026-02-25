@@ -1,10 +1,12 @@
+// LOOP UNWINDING
+
 #include <iostream>
 #include <cstdlib> // For rand() and RAND_MAX
 
 using namespace std;
 
-
-int main() {
+// main_unwinded is the function that is technically equivalent to main(), although because we are using goto statements to jump from one code location to another, it is very difficult to understand. See the main() function for a more intuitive implementation using loops.
+int main_unwinded() {
     int small_number_1;
     int small_number_2;
 
@@ -31,6 +33,7 @@ int main() {
 }
 
 
+// random_small_numbers() is the heart of the mechanism, while main() serves as a abstraction layer to separate concerns
 std::pair<int, int> random_small_numbers() {
     int i;
     int a;
