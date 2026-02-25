@@ -1,14 +1,20 @@
 using Pkg
-# Pkg.add(["FFMPEG", "Plots", "FileIO"])
-using Plots
+Pkg.add(["Colors", "FFMPEG", "FileIO", "Images", "IndirectArrays", "Plots"])
+using Colors
+using FFMPEG
 using FileIO
 using Images
 using IndirectArrays
-using Colors
-using FFMPEG
+using Plots
 
 using Base.Threads
 
+
+# the place where to save the reuslting images
+images_directory = "/Users/michal/Documents/365daysofcomputer/365daysofcomputer-code/157"
+counter = 1
+
+# resizing the image for better visuatlization
 function resize(maze, new_size)
     m, n = size(maze)
     new_maze = Array{Bool}(undef, new_size*m, new_size*n)
@@ -27,16 +33,12 @@ function resize(maze, new_size)
     return new_maze
 end
 
-images_directory = "/Users/michal/Documents/365daysofcomputer/365daysofcomputer-code/157"
-counter = 1
 
-
+# saves a given image
 function save_image(matrix_naive, size_multiplier)
     mat_to_save = resize(matrix_naive, size_multiplier)
-    # println(size(mat_to_save))
-    # exit()
     global counter
-    name = "bb_basic"# lpad(counter, 4, "0")
+    name = "bb_basic"
     counter += 1
 
     save("$images_directory/$name.png", mat_to_save)
@@ -61,12 +63,13 @@ bool_to_pos = Dict(
     1 => 2
     )
 
-
+# takes out the info from the inputting string and returns them in an array
 function extract_info(tf, pos)
     the_string = tf[letter_to_pos[string(pos[1])]][bool_to_pos[pos[2]]]
     return [the_string[1], pos[3]+hm_rl[string(the_string[2])], the_string[3], pos[3]]
 end
 
+# this is the main function, where a transition takes place
 function single_timestep(the_row, tf, step_data)
     to_write, new_loc, next_letter, old_loc = extract_info(tf, step_data)
 
@@ -74,11 +77,11 @@ function single_timestep(the_row, tf, step_data)
     return [next_letter, the_row[new_loc], new_loc]
 end
 
-# tf = transition function
-function busy_beaver(tf, the_size, size_multiplier=5,shave=10, steps=100, fps=10)
+# the busy beaver function (tf = transition function)
+function busy_beaver(tf, the_size, size_multiplier=5, shave=10, steps=100, fps=10)
     matrix = falses(the_size[1], the_size[2])
     the_row = falses(the_size[2])
-    # print(the_row)
+
     new_timestep_data = ["A", 0, Int(the_size[2]/2)] # tf letter, tf number, location
     # save_image(matrix, size_multiplier)
     
@@ -112,7 +115,8 @@ transition_function = [
 ]
 
 
-# NOTE: the two varialbes below should remain the same in order to guarantee completion. Otherwise, if a TM can overflow. 
+# NOTE: the two variables below should remain the same in order to guarantee
+# completion. Otherwise, the Turing machine can overflow. 
 line_length = 50
 steps = 50
 

@@ -1,5 +1,6 @@
+# CONWAYS GAME OF LIFE SIMULATION
 using Pkg
-# Pkg.add(["FFMPEG"])
+Pkg.add(["Colors", "FFMPEG", "FileIO", "Images", "IndirectArrays", "Plots"])
 using Plots
 using FileIO
 using Images
@@ -129,6 +130,7 @@ function conways_game_of_life(the_size=(100,100), steps=100, objects=[], size_mu
         insert_object(matrix, (Int(the_size[1]/2),Int(the_size[2]/2)), obj)
     end
 
+    # you can comment out the following line, if you want a non-random board
     create_random_board(matrix)
 
     mat_to_save = resize(shave_off_squares(matrix, shave),size_multiplier)
@@ -156,9 +158,13 @@ shave = 20 # 100
 fps = 10
 random_board = true
 
-# glider
+objects = []
+
+# here you can add certain objects into the field 
+
+## glider
 # objects = [[[-1,0], [1,0], [1,1], [1,-1], [0,1]]]
-# glider gun
+## glider gun
 # objects = [[
 #     [0,0],[-1,-1],[0,-1],[1,-1],[-2,-2],[2,-2],[0,-3], # tip
 #     [0,-7],[1,-7,],[-1,-7],[-2,-6],[2,-6],[-3,-5],[3,-5],[-3,-4],[3,-4], # left shell
@@ -168,5 +174,5 @@ random_board = true
 #     [-2,17],[-3,17],[-2,18],[-3,18], # right square
 #     ]]
 
-objects = []
+
 conways_game_of_life(matrix_size, steps, objects, size_multiplier, shave, random_board)
