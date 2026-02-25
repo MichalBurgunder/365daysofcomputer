@@ -1,6 +1,9 @@
+# THROWN BALL SIMULATION
+
 import math
 import matplotlib.pyplot as plt
 
+# By adjusting the starting values, we can rerun the simulation with different paramters.
 angle_degrees = 67
 initial_velocity = 7
 dt = 0.01
