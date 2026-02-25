@@ -1,3 +1,4 @@
+# TAKEN FROM... I don't know, I didn't write this.
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import maxwell
@@ -21,13 +22,3 @@ plt.title("Maxwell-Boltzmann Distribution at 292K")
 plt.xlabel("Speed (m/s)")
 plt.ylabel("Probability Density")
 plt.show()
-
-# Plot the Maxwell-Boltzmann distribution
-# plt.figure(figsize=(10, 6))
-# plt.plot(speeds, probability_densities, color='blue', lw=2)
-# plt.title("Maxwell-Boltzmann")
-# plt.xlabel("Speed (m/s)")
-# plt.ylabel("Probability Density")
-# plt.grid(True)
-# plt.show()
-

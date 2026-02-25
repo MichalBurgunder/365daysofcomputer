@@ -83,7 +83,7 @@ int main() {
     // resources are full dedicated to generating these random numbers. If we
     // additionally normalize these numbers on [0, 1], we can get easily
     // intrepretable numbers.
-    // reset_nums(&x, &a, &c, &m, 4129383429, 9826292137, 232134123423, 922349401);
-    // generate_random_numbers(x, a, c, m, 1);
+    reset_nums(&x, &a, &c, &m, 4129383429, 9826292137, 232134123423, 922349401);
+    generate_random_numbers(x, a, c, m, 1);
     return 0;
 }
