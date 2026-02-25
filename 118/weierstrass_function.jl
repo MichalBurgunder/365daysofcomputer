@@ -1,6 +1,5 @@
 using Pkg
-# Pkg.add("Plots")
-# Pkg.add("Images")
+Pkg.add(["Plots", "Images"])
 using Plots
 using Images
 
