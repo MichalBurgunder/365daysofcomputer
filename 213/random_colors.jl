@@ -1,8 +1,13 @@
-# CHATGPT output
 using Pkg
-# Pkg.add("ImageMagick")
+Pkg.add("ImageMagick")
+Pkg.add("Colors")
+Pkg.add("FileIO")
 using Colors, FileIO, ImageMagick
 
+# here we generate a plot of of random colored pixels, and then resize it for
+# better visualization (otherwise you'd need to zoom in) 
+
+# create the image
 function create_image()
     width, height = 100, 100
 
@@ -17,6 +22,7 @@ function create_image()
     return base_image
 end
 
+# resize the image 
 function resize(maze, new_size)
     m, n = size(maze)
     new_maze = Array{RGB}(undef, new_size*m, new_size*n)
