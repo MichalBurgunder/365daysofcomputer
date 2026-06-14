@@ -1,0 +1,460 @@
+Big Bang, 1
+quanta, 1
+particle, 1
+quantum, 1
+mass, 1
+electric charge, 1
+spin, 1
+Fermi-Dirac statistics, 1
+fermions, 1
+Bose-Einstein statistics, 1
+Higgs boson, 1
+photon, 1
+gluon, 1
+electromagnetic force, 1
+W+ boson, 1
+Z boson, 1
+weak force, 1
+strong force,
+quark, 1
+up quark, 1
+down-quark, 1
+lepton, 1
+Tau particle, 1
+Muon, 1
+hadron, 1
+meson, 1
+pentaquark, 1
+proton, 1
+neutron, 1
+atom, 1
+hydrogen, 1
+nucleus, 1
+deuterium, 1 (still to be done)
+chemistry, 1
+solid state physics, 1
+eletromagnetism, 1
+physical properties, 2
+atomic number, 2
+Thomson atomic model, 2
+Rutherford atomic model, 2
+element (atomic), 2
+carbon, 2
+beryllium, 2
+rutherfordium, 2
+isotope, 2
+radioactivity, 2
+ion, 2
+anion, 2
+cation, 2
+periodic table, 2
+gold, 2
+silver, 2
+iron, 2
+plutonium, 2
+Bohr's atomic model, 2
+electorn shell, 2
+energy level (electron)
+electron subshells, 2
+2nd law of thermodynamics,
+noble gas, 2
+dipole, 2
+hydrogen, 2
+helium, 2
+oxygen, 2
+molecule, 2
+nitrogen, 2
+valence electron, 2
+covalent bond, 2
+metallic bond, 2
+electron cloud model, 2
+probability density function, 2
+angular momentum, 2
+hyperfine structure, 2
+atomic physics, 2
+special relativity, 3
+Planck's constant, 3
+Planck distance, 3
+Zeno of Eluria, 3
+Euclidean geometry, 3
+conductivity, 3
+electron mobility, 3
+kinetic theory of gases, 3
+electron hole, 3
+telegram, 3
+light computers, 3
+quantum information, 3
+light year, 3
+SI units, 4
+imperial system of units, 4
+Winchester measure, 4
+inch, 4
+yard, 4
+foot, 4
+barleycorn, 4
+stone (measurement), 4
+quarter (measurement), 4
+hundretweight (measurement), 4
+ton, (measurement), 4
+mile, 4
+pint, 4
+gallon, 4
+centimeter-gram-second system, 4
+meter-tonne-second system, 4
+meter-kilogram-second-system, 4
+meters per second, 4
+Metre convention, 4
+International Electroical Commission, 4
+Volt, 4
+Ampere, 4
+Ohm, 4
+energy, 4
+Coulomb, 4
+Joule, 4
+acceleration, 4
+speed, 4
+power, 4
+Watt, 4
+Mole, 4
+Kelvin, 4
+Candela, 4
+dimension, 4
+dimensional analysis, 4
+geographic north pole, 5
+magnetic field, 5
+paramagnet, 5
+permanent magnet, 5
+Stern-Gerlach experiment, 5
+spin, 5
+dipole, 5
+potential energy, 5
+dynamo effect, 5
+ferromagnetism, 5
+aluminium, 6
+wire, 6
+circuit diagram, 6
+heat, 6
+resistance (electrical), 6
+resistor, 6
+circuit, 6
+short circuit, 6
+incandescent lightbulb, 6
+flourescent light, 6
+LED, 6
+diode, 6
+flux, 7
+Weber, 7
+Faraday's Law, 7
+kinetic energy, 7
+alternating current, 7
+Hertz, 7
+wind turbine, 7
+uranium, 7
+photoelectric effect, 7
+Solar Voltaics, 7
+direct current, 7
+rectifier, 7
+eletro-motor, 5
+electronical field, 5
+, 8
+inductor, 8
+step-up transformer (electricity), 8
+circuit brekaer, 8
+step-down transformer, 8
+capacitor, 8
+Morse code, 9
+telegraph, 9
+coronal mass ejection, 9
+alpha particle, 9
+solid, 9
+liquid, 9
+gas, 9
+solar wind, 9
+magnetosphere, 9
+aurorae borealis, 9
+aurorae australis, 9
+Carrington Event, 9
+Hertz, 10
+connector (male), 10
+connector (female), 10
+clamp (electronics), 10
+adapter, 10
+plug type, 10
+fuse, 11
+twisted pair, 11
+crosstalk, 11
+Daniell cell, 11
+aqueous solution, 11
+redox, 11
+Voltaic pile, 11
+electronegativity, 11
+inorganic chemistry, 11
+charger (electricity), 11
+lithium-ion battery, 11
+memory effect, 11
+demodulation (eletricity), 12
+rectifier, 12
+capacitor, 12
+transistor, 12
+Ampmeter, 12
+Voltmeter, 12
+thyristor, 12
+rheostat, 12
+crystal, 12
+relay, 13
+vacuum tube, 13
+superconducting mateirals, 13
+point-contact transistor, 13
+transistor, 13
+mechatronics, 13
+germanium, 13
+bipolar junction transistor, 13
+doping (semiconductors), 13
+semiconductor, 13
+materials science, 13
+insulator, 13
+phosphorus, 13
+boron, 13
+p-type semiconductor, 13
+n-type semiconductor, 13
+electron holes, 13 (remove the other)
+depletion zone, 13
+field-effect transistor, 13
+MOSFET, 13
+metal-oxide-semiconductor field effect transistor, 13
+PNP MOSFET, 13
+NPN MOSFET, 13
+Dennard's scaling, 13
+Moore's Law, 13
+amplifier, 13
+digital gates, 14
+fan-in, 14
+fan-out, 14
+OR gate, 14
+logic gates, 14
+Karnough map, 14
+NOT gate, 14
+NAND gate, 14
+universal gate, 14
+XOR, 14
+NXOR, 14
+IMPLY gate, 14
+NIMPLY gate, 14
+reversible computing, 14
+Toffoli gate, 14
+Fredkin gate, 14
+quantum computer, 14
+multiplexer, 14
+selector (digital logic), 14
+channel (digital logic), 14
+macromolecules, 15
+Everrettian multiverse, 15
+quantum: 15
+classical physics, 15
+blackbody radiation, 15
+quantum physics, 15
+double-slit experiment: 15
+wave-particle duality: 15
+observation (physics), 15
+integrated circuit, 16
+central processing unit, 16
+computation, 16
+binary system, 16
+decimal system, 16
+bit, 16
+binary-coded decimal, 16
+Gray code
+half-adder, 16
+full-adder, 16
+ripple-carry adder, 16
+lookahead adder, 16
+parallel (computing), 16
+arithmetic logic unit, 16
+subtractor, 16
+difference (mathematics), 16
+borrow (mathematics), 16
+half-subtractor, 16
+full-substractor, 16
+subtrahend, 16
+natural number, 16
+selector (digital gates), 16
+two's complement, 16
+integer, 16
+radix point, 16
+float, 16
+fixed-point number, 16
+subtractors, 17
+difference, 17
+borrow, 17
+half-subtractor, 17
+full-subtractor, 17
+minuend, 17
+subtrahend, 17
+natural number, 17
+decoder, 17
+selector, 17
+two's complement, 17
+integer, 17
+fixed-point number, 17
+radix point, 17
+float, 17
+Tenet (movie), 
+Object-Oriented Programming, 18
+function, 18
+functional programming, 18
+method, 18
+polynomial, 18
+graph algorithm, 18
+sorting algorithm, 18
+interpreted language, 18
+compiled language, 18
+implementation (of an algorithm), 18
+time complexity, 18
+instructions, 18
+variable, 18
+O notation, 18
+O(n), O(nlog(n)..., 18
+space complexity, 18
+average complexity, 18
+subroutine, 18
+halting problem, 18
+shortest path problem, 18
+least significant bit, 19
+LSB, 19
+most significant bit, 19
+MSB, 19
+Wallace tree, 19
+Dadda multipliers, 19
+radix point, 19
+floating point number, 19
+fixed-point number, 19
+Karatsuba's algorithm, 19
+Toom-Cook algorithm, 19
+Schönhage-Strassen algorithm, 19
+Goldschmidt method, 19
+complement division, 19
+cybersecurity, 20
+security (computer), 20
+security (information), 20
+security (communication), 20
+security (procedural), 20
+security (time-variant), 20
+cryptography, 20
+cryptology, 20
+encryption (see decryption), 20
+cipher, 20
+decrypt, 20
+Caesar cipher, 20
+encryption scheme, 20
+Kerckhoff's principle, 20
+XOR encryption, 20
+ciphertext, 20
+plaintext, 20
+Vegenère cipher, 20
+password, 20
+passphrase, 20
+attack (encryption), 20
+memory, 21
+persistence (information), 21
+forgetting, 21
+language, 21
+memory (working), 21
+memory (short-term), 21
+memory (long-term), 21
+random access memory, 21
+RAM, 21
+persistence (memory), 21
+Williams-Kilborn tube, 21
+cathode ray delay line memory, 21
+Mellon optical memory, 21
+thermionic tubes, 21
+magnetic core memory, 21
+flip-flop (digital hardware), 21
+SR-latch, 21
+feedback circuit, 21
+access speed, 21
+static random access memory, 21
+SRAM, 21
+dynamic RAM, 21
+registers (memory), 21
+cache (memory), 21
+tombstones, 21
+programmable read-only memory, 21
+PROM, 21
+non-volatile memory, 22
+write (noun, memory), 22
+read (noun, memory), 22
+L1/L2/L3 cache, 22
+memory (main), 22
+Elder Scrolls V: Skyrim, 22
+graphics processing unit, 22
+GPU, 22
+decoder (digital hardware), 22
+cyber security, 23
+hacker (white hat), 23
+hacker (grey hat), 23
+hacker (black hat), 23
+hack (verb), 23
+attack vector, 23
+blue team, 23
+red team, 23
+Mission: Impossible, 23
+cyber, 23
+social engineering, 23
+reconaissance, 23
+recon, 23
+end-to-end encryption, 23
+Diffie Hellman key exchange, 
+Secure Sockets Layer, 23
+SSL, 23
+SSL stripping, 23
+vulnerability, 23
+quality assurance, 23
+QA, 23
+Common Vulnerabilities and Exposures, 23
+(CVS), 23
+patch, 23
+hash (verb), 23
+Spectre, 23
+Meltdown, 23
+speculative execution, 23
+Rowhammer effect, 23
+parasitic capacitance, 23
+corruption (data), 23
+denial of service attach, 23
+DoS, 23
+leak (data), 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
