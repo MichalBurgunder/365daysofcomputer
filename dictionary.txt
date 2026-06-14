@@ -15,7 +15,7 @@ electromagnetic force, 1
 W+ boson, 1
 Z boson, 1
 weak force, 1
-strong force,
+strong force, 1
 quark, 1
 up quark, 1
 down-quark, 1
@@ -30,7 +30,7 @@ neutron, 1
 atom, 1
 hydrogen, 1
 nucleus, 1
-deuterium, 1 (still to be done)
+deuterium, 1
 chemistry, 1
 solid state physics, 1
 eletromagnetism, 1
@@ -56,7 +56,7 @@ Bohr's atomic model, 2
 electorn shell, 2
 energy level (electron)
 electron subshells, 2
-2nd law of thermodynamics,
+2nd law of thermodynamics, 2
 noble gas, 2
 dipole, 2
 hydrogen, 2
@@ -156,7 +156,6 @@ direct current, 7
 rectifier, 7
 eletro-motor, 5
 electronical field, 5
-, 8
 inductor, 8
 step-up transformer (electricity), 8
 circuit brekaer, 8
@@ -217,7 +216,7 @@ phosphorus, 13
 boron, 13
 p-type semiconductor, 13
 n-type semiconductor, 13
-electron holes, 13 (remove the other)
+electron holes, 13
 depletion zone, 13
 field-effect transistor, 13
 MOSFET, 13
@@ -298,7 +297,7 @@ integer, 17
 fixed-point number, 17
 radix point, 17
 float, 17
-Tenet (movie), 
+Tenet (movie), 18
 Object-Oriented Programming, 18
 function, 18
 functional programming, 18
@@ -404,7 +403,7 @@ social engineering, 23
 reconaissance, 23
 recon, 23
 end-to-end encryption, 23
-Diffie Hellman key exchange, 
+Diffie Hellman key exchange, 23
 Secure Sockets Layer, 23
 SSL, 23
 SSL stripping, 23
@@ -412,7 +411,7 @@ vulnerability, 23
 quality assurance, 23
 QA, 23
 Common Vulnerabilities and Exposures, 23
-(CVS), 23
+CVS, 23
 patch, 23
 hash (verb), 23
 Spectre, 23
@@ -502,7 +501,7 @@ method (OOP), 25
 application programming interface, 25
 API, 25
 boolean (variable), 25
-hardware description language, 
+hardware description language, 26
 HDL, 26
 hardware, 26
 cloud technology, 26
@@ -557,7 +556,7 @@ diazonaphthoquinone, 27
 photoelectric effect, 27
 quantum teleportation, 27
 printing press, 27
-application specific integrated circuits, 
+application specific integrated circuits, 28
 ASIC, 28
 chip, 28
 cryptocurrency, 28
@@ -654,6 +653,276 @@ LCD, 32
 anisotropy, 32
 albedo, 32
 Excel (microsoft), 32
+program counter, 33
+peirce oscillator, 33
+fetch (verb, memory), 33
+instruction, 33
+memory address register, 33
+memory buffer register, 33
+MAR, 33
+MBR, 33
+instruction register, 33
+IR (CPU), 33
+control unit, 33
+metadata, 33
+accumulator, 33
+instruction set architecture, 33
+byte, 33
+load compute store cycle, 33
+instruction set architecture, 34
+ISA, 34
+instruction, 34
+8-bit processor, 34
+op-code, 34
+operation code, 34
+emulator, virtual machine, 34
+Reduced Instruction Set Computers, 34
+RISC, 34
+Complex Instruction Set Computer, 34
+CISC, 34
+Intel, 34
+AMD (company), 34
+backwards compatibility, 34
+compatibility, 34
+assembly code, 34
+hardware, 34
+software, 34
+printed circuit board, 34
+PCB, 34
+microarchitecture, 34
+computer architecture, 34
+computer virus, 34
+malware analysis, 34
+ARM (processor), 34
+advanced RISC machine, 34
+difference engine, 35
+divided difference, 35
+polynomial interpolation, 35
+glyph, 35
+analytical engine, 35
+fibonacci sequence, 35
+Bernoulli number, 35
+non-volatile memory, 36
+jacquard loom, 36
+punch card, 36
+magnetic tape, 36
+UNIVAC I, 36
+UNITYPER, 36
+magnetic hysteresis, 36
+Video Home System, 36
+VHS, 36
+Betamax, 36
+polaroid camera, 36
+cassette, 36
+floppy disk, 36
+user interface, 36
+DVD, 36
+compact-disk, 36
+CD, 36
+digital video disc, 36
+blu-ray, 36
+laser, 36
+depletion mode, 37
+p-type (MOSFET), 37
+n-type (MOSFET), 37
+Integrated Electronics (company), 37
+microprocessor, 37
+complementary MOSFET, 37
+CMOS, 37
+noise (electricity), 37
+floating-gate MOSFET, 37
+FGMOS, 37
+sensor, 37
+embedded system, 37
+RHBD MOSFET, 37
+radiation hardened-by-design MOSFET, 37
+ozone layer, 37
+international space station, 37
+solar wind, 37
+Mission: Impossible, 38
+Goldfinger, 38
+The Day the Earth Stood Still, 38
+light amplification by stimulated emission of radiation, 38
+light, 38
+amplification (light), 38
+stimulated emission, 38
+radiation, 38
+ruby, 38
+chemical laser, 38
+gas laser, 38
+maser, 38
+read-only memory, 39
+ROM, 39
+PROM, 39
+programmable ROM, 39
+EPROM, 39
+erasable PROM, 39
+reprogrammable (memory), 39
+photoelectric effect, 39
+firmware, 39
+electrically erasable programmable reaed-only memory, 39
+EEPROM, 39
+hard disk, 39
+charge trap flash, 39
+flash memory, 39
+USB, 39
+USB key, 39
+universal serial bus, 39
+thumb drive, 39
+float, 40
+data type, 40
+int32, 40
+data structure, 40
+instance (of a data type), 40
+array, 40
+sorted array, 40
+constant time (algorithmic complexity), 40
+logarithm, 40
+binary tree, 40
+FIFO, 40
+first-in-first-out, 40
+queue, 40
+first-in-last-out, 40
+stack, 40
+FILO, 40
+FCFS, 40
+first-come first-serve, 40
+heap, 40
+circular array, 40
+linked list, 40
+tree, 40
+offset (parameter), 40
+doubly linked list, 40
+round-robin scheduling, 40
+virtual memory, 41
+cache line, 41
+map (data structure), 41
+external memory drive, 41
+virtual address, 41
+translation lookaside buffer, 41
+TLB, 41
+memory management unit, 41
+MMU, 41
+memory leak, 41
+contiguous memory, 42
+pointer, 42
+fragmentation (memory), 42
+double-slit experiment, 42
+fragmentation avoidance, 42
+defragmentation, 42
+defragging, 42
+procedural knowledge, 42
+computer (human), 43
+Pascal's calculator, 43
+difference engine, 43
+analytical engine, 43
+integration (calculus), 43
+calculus, 43
+floating point number, 43
+radix point, 43
+analog computer, 43
+ruler, 43
+mechanical scale, 43
+slide rule, 43
+differential analyzer, 43
+tide prediction machine, 43
+eletro-mechanical computer, 43
+Argo clock, 43
+Coriolis effect, 43
+Drift Sight, 43
+Z3, 43
+Harvard Mark I, 43
+finite-state machine, 44
+Geiger counter, 44
+device driver, 44
+microphone, 44
+camera, 44
+pressure sensor, 44
+gyroscope, 44
+α-radioactivity, 44
+alpha particles, 44
+BINAC, 44
+encoding, 44
+Amperemeter, 44
+computer screen, 44
+projector, 44
+cathode ray tube, 44
+headset, 44
+earphone, 44
+boxes (sound), 44
+embedded system, 44
+tactile perception, 45
+sound, 45
+phonon, 45
+trough, 45
+crest, 45
+wavefunction collapse, 45
+vibration, 45
+amplitude, 45
+volume, 45
+transducer, 45
+electroacoustic, 45
+spider (sound), 45
+amplitude modulation, 45
+AM, 45
+frequency modulation, 45
+FM, 45
+gramophone, 45
+antenna, 45
+BIOS, 46
+Basic Input Output, 46
+power-on self-test, 46
+POST, 46
+data corruption, 46
+firmware, 46
+master boot record, 46
+MBR (booting), 46
+memory buffer register, 46
+MBR (memory), 46
+partition (memory), 46
+file system, 46
+record (booting), 46
+operating system, 46
+open-source movement, 46
+unified extensivle firmware interface, 46
+UEFI, 46
+GUID Partition Table, 46
+GPT (booting), 46
+error-detecting code, 47
+error-correcting code, 47
+coding theory, 47
+voice over IP, 47
+parity bit, 47
+Hamming code, 47
+bootstrap, 48
+file system, 48
+Apple file system, 48
+APFS (see apple file system), 48
+NTFS (see new technology file system), 48
+new technology file system, 48
+metadata, 48
+linear hierarchy (file system), 48
+file system hierarchy standard, 48
+folder, 48
+directory, 48
+access control list, 48
+(ACL (see access contorl list), 48
+write (memory), 48
+execution (program), 48
+application programming interface, 48
+API, 48
+
+
+
+
+
+
+ 
+
+
+
+
+
 
 
 
