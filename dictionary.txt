@@ -424,32 +424,236 @@ corruption (data), 23
 denial of service attach, 23
 DoS, 23
 leak (data), 23
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Boolean algebra, 24
+Boolean logic, 24
+TRUE, 24
+FALSE, 24
+binary operation, 24
+law of transitivity, 24
+conjunction, 24
+negation, 24
+disjunction, 24
+variable, 24
+brute-force, 24
+shift (digital operation), 24
+status register, 24
+flag, 24
+overflow, 24
+zero flag, 24
+sign flag, 24
+carry flag, 24
+logic unit, 24
+g++, 24
+programming, 25
+programming language, 25
+programmer, 25
+major (programming language), 25
+minor (programming language), 25
+software, 25
+adoption (programming language), 25
+open-source, 25
+artificial intelligence, 25
+Skynet, 25
+source code, 25
+code, 25
+machine code, 25
+compiler, 25
+intermediary language, 25
+compile (verb), 25
+interpreted language, 25
+scripting language, 25
+interpreter, 25
+syntax error, 25
+compilation, 25
+compile-time error, 25
+runtime error, 25
+throw (verb, error handling), 25
+file extension, 25
+binary file, 25
+file format, 25
+general-purpose programming language, 25
+domain-specific programming language, 25
+abstraction, 25
+reserve (memory), 25
+release (memory), 25
+automated memory management, 25
+garbage collection, 25
+dynamic (programming language), 25
+static (programming language), 25
+high-level (programming language), 25
+low-level (programming language), 25
+assembly code, 25
+assembler, 25
+generation (class of programming languages), 25
+first (generation of programming languages), 25
+second (generation of programming languages), 25
+third (generation of programming languages), 25
+fourth (generation of programming languages), 25
+fifth (generation of programming languages), 25
+programming paradigms, 25
+procedural programming, 25
+functional programming, 25
+statement (programming), 25
+object-oriented programming, 25
+OOP, 25
+object (OOP), 25
+class (OOP), 25
+method (OOP), 25
+application programming interface, 25
+API, 25
+boolean (variable), 25
+hardware description language, 
+HDL, 26
+hardware, 26
+cloud technology, 26
+computer aided-design, 26
+vendor lock-in, 26
+US Department of Defence, 26
+DoD, 26
+Very High Speed Integrated Circuit Hardware Description Language, 26
+VHDL, 26
+Electrical and Electronics Engineers, 26
+IEEE, 26
+Verilog, 26
+small scale (integration), 26
+medium scale (integration), 26
+large scale (integration), 26
+very large scale (integration), 26
+SSI, 26
+MSI, 26
+LSI, 26
+VLSI, 26
+transistor-to-transistor (logic), 26
+TTL, 26
+emitter-coupled (logic), 26
+diode-transistor (logic), 26
+DTL, 26
+complementary metal-oxide-semiconductor, 26
+CMOS, 26
+Minecraft, 26
+redstone, 26
+clock speed, 26
+homebrew, 26
+ghdl, 26
+photolithography, 27
+lithography, 27
+-graphy, 27
+lithos, 27
+hydrophobic, 27
+photo, 27
+glass, 27
+quarz, 27
+substrate, 27
+silicon wafer, 27
+photoresist, 27
+indene carboxylic acid, 27
+positive (photolithography), 27
+negative (photolithography), 27
+Czochralski process, 27
+hydrogen peroxide, 27
+adhesive, 27
+bis(trimethylsilyl)amine, 27
+diazonaphthoquinone, 27
+photoelectric effect, 27
+quantum teleportation, 27
+printing press, 27
+application specific integrated circuits, 
+ASIC, 28
+chip, 28
+cryptocurrency, 28
+satoshi, 28
+field-programmable gate array, 28
+FPGA, 28
+computer mouse, 28
+security by obfuscation, 28
+configurable logic block, 28
+CLB, 28
+lookup table, 28
+LUT, 28
+data structure, 28
+Programmable array logic, 28
+PAL, 28
+programmable logic arrays, 28
+PLA, 28
+EEPROM, 28
+PROM, 28
+complex programmable logic arrays, 28
+macrocell, 28
+Internet of Things, 28
+IoT, 28
+calcium carbonate, 29
+CaCO3, 29
+calcium, 29
+plagioclase, 29
+feldspar, 29
+granite, 29
+magma, 29
+crystallization, 29
+annealing, 29
+stochastic process, 29
+crystal structure, 29
+dislocation (crystallography), 29
+crysrtal, 29
+specific heat capacity, 29
+lava, 29
+mineral, 29
+crystallography, 29
+cubic (crystallography), 29
+Pascal (unit), 29
+graphite, 29
+diamond, 29
+hardness, 29
+Mohs scale, 29
+amethhyst, 29
+quarz, 29
+X-ray crystallography, 29
+tensile strength, 29
+liquid crystal display, 29
+LCD, 29
+micro-, 30
+mili, 30
+nano-, 30
+atto-, 30
+time continuity, 30
+electro-motive force, 30
+EMF, 30
+inductor, 30
+sinusiodal, 30
+oscillator, 30
+thyristor, 30
+overclocking, 30
+quartz crystal, 30
+reverberation, 30
+piezoelectricity, 30
+amplitude (wave), 30
+frequency divider, 30
+network time protocol, 30
+real-time clock, 30
+logical clock, 30
+Y2K, 31
+Millenium Bug, 31
+CD, 31
+Gartner, 31
+Simpsons, 31
+Treehouse of Horror, 31
+buffer overflow, 31
+Linux, 31
+macOS, 31
+2038 problem, 31
+tweet, 31
+embedded system, 31
+Netscape, 31
+512k bug, 31
+abacus, 32
+calculator, 32
+handheld calculator, 32
+binary operation, 32
+accumulator, 32
+liquid crystal display, 32
+LCD, 32
+anisotropy, 32
+albedo, 32
+Excel (microsoft), 32
 
 
 
