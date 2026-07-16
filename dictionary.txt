@@ -911,13 +911,631 @@ write (memory), 48
 execution (program), 48
 application programming interface, 48
 API, 48
+Phoenician alphabet, 49
+Bacon cipher, 49
+mojibake, 49
+decode, 49
+glyph, 49
+IBM BCD, 49
+printer, 49
+ASCII, 49
+American Standard Code for Information Interchange, see ASCII, 49
+EBCDIC, 49
+Extended Binary Coded Decimal Interchange Code, 49
+UTF, see Unicode Transform Format, 49
+Unicode Transform Format, 49
+diacritics, 49
+Jacobian, 49
+Zalgo text, 49
+backwards compatibility, 49
+WhatsApp, 50
+Facebook, 50
+Discord, 50
+bot, 50
+internet, 50
+Voice over IP, 50
+VoIP, see Voice over IP, 50
+video call, 50
+email, 50
+acronym, 50
+lol, 50
+lmao, 50
+ffs, 50
+kanji, 50
+hiragana, 50
+katagana, 50
+emoji, 50
+MSN Messenger, 50
+yahoo!, 50
+giphy, 50
+.gif, 50
+Benson's Law, 51
+bulk_extractor, 51
+carving, 51
+Wifi, 51
+bluetooth signal, 51
+chain of custody, 51
+iPhone, 51
+General Data Protection Regulation, 51
+GDPR, see General Data Protection Regulation, 51
+cloud, 51
+Google Amazon, 51
+server-farm, 51
+replica (database), 51
+rainbow table, 51
+digital good, 52
+data, 52
+exploratory data analysis, 52
+supply chain management, 52
+aerospace engineering, 52
+HTML, 52
+most significant bit first, 52
+MSB-first, see most significant bit first, 52
+secondary data, 52
+Shannon entropy, 52
+steganography, 53
+self-delimiting code, 53
+code, 53
+Kraft inequality, 53
+code word, 53
+encoding scheme, 53
+compression, 53
+information, 53
+exact cover, 54
+knapsack problem, 54
+data compression, 54
+decompress, 54
+encoder, 54
+decoder, 54
+computer network, 54
+compression ratio, 54
+information entropy, 54
+losslessvideo compression, 54
+ZIP-bomb, 54
+random, 55
+typicality (randomness), 55
+typical (randomness), 55
+special property (randomness), 55
+randomness, 55
+countable (infinity), 55
+Kolmogorov complexity, 55
+random number generator, 56
+RNG, see random number generator, 56
+offset, 56
+range, 56
+thermal static, 56
+least significant bit, 56
+LSB, see least significant bit, 56
+tick speed, 56
+true random number generators, 56
+true RNG, see true random number generators, 56
+pseudo random number generators, 56
+PRNG, pseudo random number generators, 56
+ENIAC, 56
+middle-square method, 56
+linear congruential generator, 56
+histograms, 56
+The Art of Computer Programming, 56
+Die Hard, 56
+diehard tests, 56
+craps, 56
+nearest neighbor analysis, 56
+matrix ranking, 56
+dieharder tests, 56
+Mersenne Twister, 56
+Mersenne primes, 56
+seed, 56
+cryptographically secure PRNG, 56
+CSPRNG, see cryptographically secure PRNG, 56
+indeterministic algorithm, 56
+Monte Carlo method, 56
+hash function, 57
+block of (data), 57
+padding, 57
+ROTATE (data), 57
+SHIFT (data), 57
+ADD (data), 57
+hash map, 57
+map, see hash map, 57
+key (hash map), 57
+pointer, 57
+collision, 57
+Preimage resistance testing, 57
+reverse engineer, 57
+Second preimage testing, 57
+salt (hashing), 57
+cryptographic, 57
+non-cryptographic, 57
+SipHash, 57
+National Institute of Standards and Technology, 57
+NIST, see National Institute of Standards and Technology, 57
+secure hashing algorithms, 57
+SHA, see secure hashing algorithms, 57
+hash cycle, 57
+one-way functions, 58
+ciphertext-only attack, 58
+known plaintext attack, 58
+oracle, 58
+confusion (cryptography), 58
+diffusion (cryptography), 58
+timing attack, 58
+substitution box, 58
+S-box, see substitution box, 58
+permutation box, 58
+P-box, see permutation box, 58
+permutate (cryptography), 58
+round (cryptography), 58
+block cipher modes of operation, 58
+electronic code book, 58
+initialization vector, 58
+IV, see initialization vector, 58
+cipher feedback, 58
+CFB, see cipher feedback, 58
+cipher block chaining, 58
+CBC, see cipher block chaining, 58
+output feedback, 58
+OFB, see output feedback, 58
+propagating cipher block chaining, 58
+PCBC, see propagating cipher block chaining, 58
+infinite garble extension, 58
+IGE, see infinite garble extension, 58
+extended cipher block chaining, 58
+XCBC, 58
+parallelization (cryptography), 58
+symmetric key cryptography, 58
+backdoor, 58
+RSA cryptosystem, 58
+authentication, 58
+module, 58
+rods and cones, 59
+L cone, 59
+M cone, 59
+S cone, 59
+ocular biology, 59
+additive color model, 59
+subtractive color model, 59
+monitor pixel, 59
+secondary color, 59
+CMY, 59
+RGB, 59
+quadary color, 59
+tertiary color, 59
+subpixel, 59
+luminosity, 59
+commission internationale pour l'éclairage, 59
+commission internationale de photométrie, 59
+color gamut, 59
+matrix multiplication, 59
+sRGB, see standard RGB, 59
+standard RGB, 59
+homogeneous form (matrix), 59
+CIE, see commission internationale pour l'éclairage, 59
+zoom, 60
+red green blue, 60
+polychromatic, 60
+monochromatic, 60
+bitmap, 60
+QR code, see Quick Response code, 60
+Quick Response code, 60
+raster graphics, 60
+vector graphics, 60
+gray-scale, 60
+brightness, 60
+transparency (image), 60
+bit color, 60
+compression, 60
+meme, 60
+run-length encoding, 60
+DEFLATE, 60
+portable network graphics, 60
+.png, see portable network graphics, 60
+webpage, 60
+.jpg, see Joint Photographics Group, 60
+Joint Photographics Group, 60
+discrete cosine transform, 60
+Huffman coding, 60
+scaled vector graphics, 60
+steganography, 61
+Zipf's law, 61
+carrier (communication), 61
+superset, 61
+Ramsey Theory, 61
+Cicada 3301, 61
+computer network, 61
+packet header, 61
+Internet Protocol, 61
+IP, see Internet Protocol, 61
+time-to-live, 61
+router, 61
+traffic, 61
+internet service provider, 61
+ISP, see internet service provider, 61
+network interface controller, 61
+NIC, see network interface controller, 61
+Linux, 61
+The Name of the Rose, 61
+Umberto Eco, 61
+Paint (software), 62
+mouse, 62
+trackpad, 62
+mouse cursor, 62
+Microsoft, 62
+flood-fill (algorithm), 62
+Bresenhem's line algorithm, 62
+Wu's line algorithm, 62
+interpolation, 62
+Pythagorean triple, 62
+skew, 62
+translation (image processing), 62
+mirroring (image processing), 62
+rotation (image processing), 62
+gray scale, 62
+mean (statistics), 62
+astrophotography, 62
+photographic film, 62
+long-exposure shot, 62
+film, 62
+iterative closest point, 62
+ICP, see iterative closest point, 62
+signal, 63
+multiplexing, 63
+uniplexing, 63
+time division multiplexing, 63
+frequency division multiplexing, 63
+amplitutde multiplexing, 63
+sectoral antenna, 63
+Yagi-Uda antenna, 63
+networking interface, 63
+satellite dish, 63
+noise (signal processing), 63
+Rayleigh scattering, 63
+de Broglie wavelength, 63
+radio wave, 63
+absorption spectra, 63
+sampling (statistics), 63
+Fast Fourier Transform, 63
+FFT, see Fast Fourier Transform, 63
+Nyquist Sampling Theorem, 63
+Fourier Transform, 63
+noiseless channel, 63
+minima (calculus), 63
+maxima (calculus), 63
+bottleneck (networking), 63
+packet loss, 63
+cpu core, 64
+nitride, 64
+battery management, 64
+chips, 64
+ATX layout, 64
+printed circuit board, 64
+PCB, see printed circuit board, 64
+pin (integrated circuit), 64
+GPIO pin, 64
+motherboard, 64
+epoxy fiberglass, 64
+hardware security module, 64
+HSM, see hardware security module, 64
+integrated circuit packaging, 64
+ball grid array, 64
+BGA, see ball grid array, 64
+dual-in-line package, 64
+DIP, see dual-in-line package, 64
+Quad Flat no Leads, 64
+QFN, see Quad Flat no Leads, 64
+Small Outline Package, 64
+SOP, see Small Outline Package, 64
+surface mount packaging, 64
+through-hole packaging, 64
+screw terminal, 64
+solder, 64
+bus, 65
+I2C, see inter-intergrated circuit, 65
+clock synchronization, 65
+clock drift, 65
+address bus, 65
+control bus, 65
+system bus, 65
+systems engineering, 65
+peripheral bus, 65
+expansion bus, 65
+low-pin count bus, 65
+LPC, see low-pin count bus, 65
+PCI, see peripheral component interconnect express, 65
+peripheral component interconnect express, 65
+Thunderbolt, 65
+SATA, see Serial AT Attachment (Advanced Technology), 65
+North brudge controller, 65
+South bridge controller, 65
+north-south bridge layout, 65
+USB Implementers Forum, Inc., 65
+USB, see universal serial bus, 65
+half-duplex, 65
+USB-C, 65
+metallurgy, 65
+bandwidth, 65
+jack (wires), 65
+Radio Equipment Directive, 65
+HDMI standard, 65
+HDMI, high definition multimedia interface, 65
+high definition multimedia interface, 65
+interface (electronics), 65
+VGA, see video graphics array, 65
+video graphics array, 65
+data wire, 65
+throughput, 65
+base clock, 65
+human-computer interaction, 66
+HCI, see human-computer interaction, 66
+user-centered design, 66
+focus group, 66
+Silicon valley (TV show), 66
+Augmentation Research Center, 66
+mouse, 66
+keyboard, 66
+screen, 66
+pedal (HCI), 66
+wireless, 66
+ergonomics, 66
+Large language model, 66
+joystick, 66
+wheel (HCI), 66
+usability, 66
+intuition, 66
+accessibility, 66
+A/B testing, 66
+interaction design, 66
+Likert scale, 66
+smartphone, 66
+tablet, 66
+touch screen, 66
+wifi, 66
+immersive computing, 66
+collapse informatics, 66
+cyborgs, 66
+privacy, 67
+ad-supported services, 67
+social media use, 67
+digital good, 67
+golden rule, 67
+nuclear bomb, 67
+game theory, 67
+Oppenheimer (film), 67
+Haber-Bosch process, 67
+mobile phone, 67
+operations research, 67
+Pop-up advertisement, 67
+infinite scrolling, 67
+curated content, 67
+reverse engineering, 67
+computer virus, 67
+keylogger, 67
+trolley problem, 67
+utilitarianism, 67
+positive utilitarianism, 67
+negative utilitarianism, 67
+deontology, 67
+complex system, 67
+autonomous driving, 67
+Law, 67
+stuxnet, 67
+worm (malware), 67
+image processing, 68
+image modification, 68
+image manipulation, 68
+mani, 68
+leo, 68
+-fico, 68
+modificare, 68
+cropping, 68
+resizing, 68
+rotation matrix, 68
+linear interpolation, 68
+bilinear interpolation, 68
+trilinear interpolation, 68
+artificial intelligence, 68
+computer vision, 68
+canny filter, 68
+direct linear transform, 68
+red-eye effect, 68
+comics, 68
+thought bubble, 68
+speech bubble, 68
+frame (video), 68
+Daltonization, 68
+matrix (film), 68
+brand awareness, 68
+customer acquisition, 68
+customer retention, 68
+text editor, 69
+keyboard, 69
+typewriter, 69
+font, 69
+QWERTY, 69
+Dovrak keyboard layout, 69
+Whirlwind I, 69
+window (user interface), 69
+function keys, 69
+driver software, 69
+vendor lock-in, 69
+scissor-switch key, 69
+tiling, 70
+mosaic, 70
+composition (art), 70
+Bertie the Brain, 70
+design (discipline), 70
+cathode ray tube, 70
+CRT, see cathode ray tube, 70
+electron gun, 70
+subpixel, 70
+organic LCD, 70
+start button, 70
+light emitting diode, 70
+LED, see light emitting diode, 70
+e-sports, 70
+flicker (screen), 70
+refresh rate, 70
+telecine machine, 71
+frame buffer, 71
+display driver, 71
+timing controller, 71
+TCON, see timing controller, 71
+user interface, 71
+windowing manager, 71
+window manager, 71
+WIMP, 71
+Windows, Icons, Menus, Pointer, 71
+window, 71
+icon, 71
+menu, 71
+pointer, 71
+HTML, 71
+display server, 71
+primitive (user interface), 71
+compositing manager, 71
+start bar, 71
+dock (user interface), 71
+Blender (software), 71
+first-person shooter, 72
+FPS, see first-person shooter, 72
+Halo: Combat Evolved, 72
+computer game, 72
+3D generated world, 72
+light reflection (graphics), 72
+texture pack, 72
+Wolfenstein 3D, 72
+Doom (game), 72
+Goldeneye (game), 72
+Dead Space (game), 72
+mancala, 72
+Go (game), 72
+reinforcement learning, 72
+reward (artifical intelligence), 72
+chess, 72
+checkers, 72
+puzzle, 72
+Nim, 72
+Nimrod, 72
+tic-tac-toe, 72
+Spacewar!, 72
+Law of gravitation, 72
+agent (gaming), 72
+determinism, 72
+loop, 73
+conditional, 73
+while loop, 73
+for loop, 73
+goto, 73
+linear congruential generator, 73
+list (programming), 73
+little-endian, 73
+conditional branching, 73
+if-else, 73
+infinite loop, 73
+branching, 73
+control flow, 73
+gaming world, 74
+Pong, 74
+Super Mario, 74
+Tetris, 74
+Mario (franchise), 74
+sprite, 74
+avatar, 74
+Cuphead, 74
+Among us, 74
+canvas (graphics), 74
+text-based computer game, 74
+terminal (shell), 74
+Poker Squares, 74
+pipe (glyph), 74
+dash (glyph), 74
+choose your own adventure, 74
+interactive fiction, 74
+Dungeons and Dragons
+Colossal Cave Adventure, 74
+Zork!, 74
+Oregon Trail, 74
+Baldur's Gate, 74
+Code Page 437, 74
+Rogue (game), 74
+generative design, 74
+No Man's Sky, 74
+Pixel Dungeon, 74
+Dwarf Fortress, 74
+resource management simulation, 74
+forgotten city, 74
+video game, 75
+photograph, 75
+clip (video), 75
+Myst, 75
+frame (video), 75
+film, 75
+Daguerrotypography, 75
+nitric oxide, 75
+acid (chemistry), 75
+pin-hole camera, 75
+fixer (chemistry), 75
+photoreceptor, 75
+projector, 75
+image resolution, 75
+photodiodes, 75
+phototransistors, 75
+CMOS image sensor, 75
+CIS, see CMOS image sensor, 75
+trenches (semiconductor), 75
+RGBW, 75
+dark current, 75
+dark noise, 75
+shutter speed, 75
+long-exposure photography, 75
+video cassettes, 75
+spreadsheet programs, 76
+Excel (Microsoft), 76
+mouse, 76
+cursor, 76
+user experience, 76
+game controller, 76
+e-sports, 76
+incremental encoder, 76
+Rollkugelsteuerung, 76
+ICP, see iterative closest point, 76
+iterative closest point, 76
+touchpad, 76
+laptop, 76
+pointing stick, 76
+mid point algorithm, 76
+Bluetooth, 76
+touchscreen, 76
+smartphone, 76
+touchscreen, 76
+automaton, 77
+finite state machine, 77
+FSM, see finite state machine, 77
+flow charts, 77
+deterministic finite automata, 77
+DFA, see deterministic finite automata, 77
+non-deterministic finite automata,, 77
+NFA, see non-deterministic finite automata, 77
+acceptor, 77
+accept state, 77
+classifier, 77
+transducer, 77
+empty symbol, 77
+empty string, 77
+pushdown automata, 77
+PDA, see pushdown automata, 77
+busy beaver problem, 78
+halting problem
+space-time diagram
+cellular automata
+sierpinski's triangle
+rule (cellular automata)
+gene mutation
+gene drift
+survival of the fittest
+homeostasis
+Conway's Game of Life
+video
 
-
-
-
-
-
- 
 
 
 
