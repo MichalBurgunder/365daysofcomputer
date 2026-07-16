@@ -40,13 +40,15 @@ r_flower_1 = 1*np.sin(6*theta)+4
 r_flower_2 = 2*np.sin(7*theta)+6
 r_flower_3 = 3*np.sin(8*theta)+8
 r_flower_4 = 4*np.sin(9*theta)+10
+r_flower_5 = 5*np.sin(10*theta)+12
 # r_spiral = theta
 
 # plt.plot(theta, r_spiral, color='red')
-plt.plot(theta, r_flower_1, color='purple')
-plt.plot(theta, r_flower_2, color='blue')
-plt.plot(theta, r_flower_3, color='green')
-plt.plot(theta, r_flower_4, color='red')
+plt.plot(theta, r_flower_1, color='orange')
+plt.plot(theta, r_flower_2, color='purple')
+plt.plot(theta, r_flower_3, color='blue')
+plt.plot(theta, r_flower_4, color='green')
+plt.plot(theta, r_flower_5, color='red')
 
 plt.grid(False)
 plt.rgrids([])
