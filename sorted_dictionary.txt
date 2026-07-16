@@ -1,0 +1,901 @@
+(ACL (see access contorl list), 48
+(CVS), 23
+-graphy, 27
+2038 problem, 31
+2nd law of thermodynamics, 2
+512k bug, 31
+8-bit processor, 34
+AM, 45
+AMD (company), 34
+APFS (see apple file system), 48
+API, 25
+API, 48
+ARM (processor), 34
+ASIC, 28
+Ampere, 4
+Amperemeter, 44
+Ampmeter, 12
+Apple file system, 48
+Argo clock, 43
+BINAC, 44
+BIOS, 46
+Basic Input Output, 46
+Bernoulli number, 35
+Betamax, 36
+Big Bang, 1
+Bohr's atomic model, 2
+Boolean algebra, 24
+Boolean logic, 24
+Bose-Einstein statistics, 1
+CD, 31
+CD, 36
+CISC, 34
+CLB, 28
+CMOS, 26
+CMOS, 37
+CaCO3, 29
+Caesar cipher, 20
+Candela, 4
+Carrington Event, 9
+Common Vulnerabilities and Exposures, 23
+Complex Instruction Set Computer, 34
+Coriolis effect, 43
+Coulomb, 4
+Czochralski process, 27
+DTL, 26
+DVD, 36
+Dadda multipliers, 19
+Daniell cell, 11
+Dennard's scaling, 13
+Diffie Hellman key exchange, 23
+DoD, 26
+DoS, 23
+Drift Sight, 43
+EEPROM, 28
+EEPROM, 39
+EMF, 30
+EPROM, 39
+Elder Scrolls V: Skyrim, 22
+Electrical and Electronics Engineers, 26
+Euclidean geometry, 3
+Everrettian multiverse, 15
+Excel (microsoft), 32
+FALSE, 24
+FCFS, 40
+FGMOS, 37
+FIFO, 40
+FILO, 40
+FM, 45
+FPGA, 28
+Faraday's Law, 7
+Fermi-Dirac statistics, 1
+Fredkin gate, 14
+GPT (booting), 46
+GPU, 22
+GUID Partition Table, 46
+Gartner, 31
+Geiger counter, 44
+Goldfinger, 38
+Goldschmidt method, 19
+HDL, 26
+Hamming code, 47
+Harvard Mark I, 43
+Hertz, 7
+Hertz, 10
+Higgs boson, 1
+IEEE, 26
+IMPLY gate, 14
+IR (CPU), 33
+ISA, 34
+Integrated Electronics (company), 37
+Intel, 34
+International Electroical Commission, 4
+Internet of Things, 28
+IoT, 28
+Joule, 4
+Karatsuba's algorithm, 19
+Karnough map, 14
+Kelvin, 4
+Kerckhoff's principle, 20
+L1/L2/L3 cache, 22
+LCD, 29
+LCD, 32
+LED, 6
+LSB, 19
+LSI, 26
+LUT, 28
+Linux, 31
+MAR, 33
+MBR, 33
+MBR (booting), 46
+MBR (memory), 46
+MMU, 41
+MOSFET, 13
+MSB, 19
+MSI, 26
+Mellon optical memory, 21
+Meltdown, 23
+Metre convention, 4
+Millenium Bug, 31
+Minecraft, 26
+Mission: Impossible, 23
+Mission: Impossible, 38
+Mohs scale, 29
+Mole, 4
+Moore's Law, 13
+Morse code, 9
+Muon, 1
+NAND gate, 14
+NIMPLY gate, 14
+NOT gate, 14
+NPN MOSFET, 13
+NTFS (see new technology file system), 48
+NXOR, 14
+Netscape, 31
+O notation, 18
+OOP, 25
+OR gate, 14
+Object-Oriented Programming, 18
+Ohm, 4
+PAL, 28
+PCB, 34
+PLA, 28
+PNP MOSFET, 13
+POST, 46
+PROM, 21
+PROM, 28
+PROM, 39
+Pascal (unit), 29
+Pascal's calculator, 43
+Planck distance, 3
+Planck's constant, 3
+Programmable array logic, 28
+QA, 23
+RAM, 21
+RHBD MOSFET, 37
+RISC, 34
+ROM, 39
+Reduced Instruction Set Computers, 34
+Rowhammer effect, 23
+Rutherford atomic model, 2
+SI units, 4
+SR-latch, 21
+SRAM, 21
+SSI, 26
+SSL, 23
+SSL stripping, 23
+Schönhage-Strassen algorithm, 19
+Secure Sockets Layer, 23
+Simpsons, 31
+Skynet, 25
+Solar Voltaics, 7
+Spectre, 23
+Stern-Gerlach experiment, 5
+TLB, 41
+TRUE, 24
+TTL, 26
+Tau particle, 1
+Tenet (movie), 18
+The Day the Earth Stood Still, 38
+Thomson atomic model, 2
+Toffoli gate, 14
+Toom-Cook algorithm, 19
+Treehouse of Horror, 31
+UEFI, 46
+UNITYPER, 36
+UNIVAC I, 36
+US Department of Defence, 26
+USB, 39
+USB key, 39
+VHDL, 26
+VHS, 36
+VLSI, 26
+Vegenère cipher, 20
+Verilog, 26
+Very High Speed Integrated Circuit Hardware Description Language, 26
+Video Home System, 36
+Volt, 4
+Voltaic pile, 11
+Voltmeter, 12
+W+ boson, 1
+Wallace tree, 19
+Watt, 4
+Weber, 7
+Williams-Kilborn tube, 21
+Winchester measure, 4
+X-ray crystallography, 29
+XOR, 14
+XOR encryption, 20
+Y2K, 31
+Z boson, 1
+Z3, 43
+Zeno of Eluria, 3
+abacus, 32
+abstraction, 25
+acceleration, 4
+access control list, 48
+access speed, 21
+accumulator, 32
+accumulator, 33
+adapter, 10
+adhesive, 27
+adoption (programming language), 25
+advanced RISC machine, 34
+albedo, 32
+alpha particle, 9
+alpha particles, 44
+alternating current, 7
+aluminium, 6
+amethhyst, 29
+amplification (light), 38
+amplifier, 13
+amplitude, 45
+amplitude (wave), 30
+amplitude modulation, 45
+analog computer, 43
+analytical engine, 35
+analytical engine, 43
+angular momentum, 2
+anion, 2
+anisotropy, 32
+annealing, 29
+antenna, 45
+application programming interface, 25
+application programming interface, 48
+application specific integrated circuits, 28
+aqueous solution, 11
+arithmetic logic unit, 16
+array, 40
+artificial intelligence, 25
+assembler, 25
+assembly code, 25
+assembly code, 34
+atom, 1
+atomic number, 2
+atomic physics, 2
+attack (encryption), 20
+attack vector, 23
+atto-, 30
+aurorae australis, 9
+aurorae borealis, 9
+automated memory management, 25
+average complexity, 18
+backwards compatibility, 34
+barleycorn, 4
+beryllium, 2
+binary file, 25
+binary operation, 24
+binary operation, 32
+binary system, 16
+binary tree, 40
+binary-coded decimal, 16
+bipolar junction transistor, 13
+bis(trimethylsilyl)amine, 27
+bit, 16
+blackbody radiation, 15
+blu-ray, 36
+blue team, 23
+boolean (variable), 25
+bootstrap, 48
+boron, 13
+borrow, 17
+borrow (mathematics), 16
+boxes (sound), 44
+brute-force, 24
+buffer overflow, 31
+byte, 33
+cache (memory), 21
+cache line, 41
+calcium, 29
+calcium carbonate, 29
+calculator, 32
+calculus, 43
+camera, 44
+capacitor, 8
+capacitor, 12
+carbon, 2
+carry flag, 24
+cassette, 36
+cathode ray delay line memory, 21
+cathode ray tube, 44
+cation, 2
+centimeter-gram-second system, 4
+central processing unit, 16
+channel (digital logic), 14
+charge trap flash, 39
+charger (electricity), 11
+chemical laser, 38
+chemistry, 1
+chip, 28
+cipher, 20
+ciphertext, 20
+circuit, 6
+circuit brekaer, 8
+circuit diagram, 6
+circular array, 40
+clamp (electronics), 10
+class (OOP), 25
+classical physics, 15
+clock speed, 26
+cloud technology, 26
+code, 25
+coding theory, 47
+compact-disk, 36
+compatibility, 34
+compilation, 25
+compile (verb), 25
+compile-time error, 25
+compiled language, 18
+compiler, 25
+complement division, 19
+complementary MOSFET, 37
+complementary metal-oxide-semiconductor, 26
+complex programmable logic arrays, 28
+computation, 16
+computer (human), 43
+computer aided-design, 26
+computer architecture, 34
+computer mouse, 28
+computer screen, 44
+computer virus, 34
+conductivity, 3
+configurable logic block, 28
+conjunction, 24
+connector (female), 10
+connector (male), 10
+constant time (algorithmic complexity), 40
+contiguous memory, 42
+control unit, 33
+coronal mass ejection, 9
+corruption (data), 23
+covalent bond, 2
+crest, 45
+crosstalk, 11
+cryptocurrency, 28
+cryptography, 20
+cryptology, 20
+crysrtal, 29
+crystal, 12
+crystal structure, 29
+crystallization, 29
+crystallography, 29
+cubic (crystallography), 29
+cyber, 23
+cyber security, 23
+cybersecurity, 20
+data corruption, 46
+data structure, 28
+data structure, 40
+data type, 40
+decimal system, 16
+decoder, 17
+decoder (digital hardware), 22
+decrypt, 20
+defragging, 42
+defragmentation, 42
+demodulation (eletricity), 12
+denial of service attach, 23
+depletion mode, 37
+depletion zone, 13
+deuterium, 1
+device driver, 44
+diamond, 29
+diazonaphthoquinone, 27
+difference, 17
+difference (mathematics), 16
+difference engine, 35
+difference engine, 43
+differential analyzer, 43
+digital gates, 14
+digital video disc, 36
+dimension, 4
+dimensional analysis, 4
+diode, 6
+diode-transistor (logic), 26
+dipole, 2
+dipole, 5
+direct current, 7
+directory, 48
+disjunction, 24
+dislocation (crystallography), 29
+divided difference, 35
+domain-specific programming language, 25
+doping (semiconductors), 13
+double-slit experiment, 42
+doubly linked list, 40
+down-quark, 1
+dynamic (programming language), 25
+dynamic RAM, 21
+dynamo effect, 5
+earphone, 44
+electorn shell, 2
+electric charge, 1
+electrically erasable programmable reaed-only memory, 39
+electro-motive force, 30
+electroacoustic, 45
+electromagnetic force, 1
+electron cloud model, 2
+electron hole, 3
+electron holes, 13
+electron mobility, 3
+electron subshells, 2
+electronegativity, 11
+electronical field, 5
+element (atomic), 2
+eletro-mechanical computer, 43
+eletro-motor, 5
+eletromagnetism, 1
+embedded system, 31
+embedded system, 37
+embedded system, 44
+emitter-coupled (logic), 26
+encoding, 44
+encryption (see decryption), 20
+encryption scheme, 20
+end-to-end encryption, 23
+energy, 4
+erasable PROM, 39
+error-correcting code, 47
+error-detecting code, 47
+execution (program), 48
+external memory drive, 41
+fan-in, 14
+fan-out, 14
+feedback circuit, 21
+feldspar, 29
+fermions, 1
+ferromagnetism, 5
+fibonacci sequence, 35
+field-effect transistor, 13
+field-programmable gate array, 28
+fifth (generation of programming languages), 25
+file extension, 25
+file format, 25
+file system, 46
+file system, 48
+file system hierarchy standard, 48
+finite-state machine, 44
+firmware, 39
+firmware, 46
+first (generation of programming languages), 25
+first-come first-serve, 40
+first-in-first-out, 40
+first-in-last-out, 40
+fixed-point number, 16
+fixed-point number, 17
+fixed-point number, 19
+flag, 24
+flash memory, 39
+flip-flop (digital hardware), 21
+float, 16
+float, 17
+float, 40
+floating point number, 19
+floating point number, 43
+floating-gate MOSFET, 37
+floppy disk, 36
+flourescent light, 6
+flux, 7
+folder, 48
+foot, 4
+forgetting, 21
+fourth (generation of programming languages), 25
+fragmentation (memory), 42
+fragmentation avoidance, 42
+frequency divider, 30
+frequency modulation, 45
+full-adder, 16
+full-substractor, 16
+full-subtractor, 17
+function, 18
+functional programming, 18
+functional programming, 25
+fuse, 11
+g++, 24
+gallon, 4
+garbage collection, 25
+gas, 9
+gas laser, 38
+general-purpose programming language, 25
+generation (class of programming languages), 25
+geographic north pole, 5
+germanium, 13
+ghdl, 26
+glass, 27
+gluon, 1
+glyph, 35
+gold, 2
+gramophone, 45
+granite, 29
+graph algorithm, 18
+graphics processing unit, 22
+graphite, 29
+gyroscope, 44
+hack (verb), 23
+hacker (black hat), 23
+hacker (grey hat), 23
+hacker (white hat), 23
+hadron, 1
+half-adder, 16
+half-subtractor, 16
+half-subtractor, 17
+halting problem, 18
+handheld calculator, 32
+hard disk, 39
+hardness, 29
+hardware, 26
+hardware, 34
+hardware description language, 26
+hash (verb), 23
+headset, 44
+heap, 40
+heat, 6
+helium, 2
+high-level (programming language), 25
+homebrew, 26
+hundretweight (measurement), 4
+hydrogen, 1
+hydrogen, 2
+hydrogen peroxide, 27
+hydrophobic, 27
+hyperfine structure, 2
+imperial system of units, 4
+implementation (of an algorithm), 18
+incandescent lightbulb, 6
+inch, 4
+indene carboxylic acid, 27
+inductor, 8
+inductor, 30
+inorganic chemistry, 11
+instance (of a data type), 40
+instruction, 33
+instruction, 34
+instruction register, 33
+instruction set architecture, 33
+instruction set architecture, 34
+instructions, 18
+insulator, 13
+int32, 40
+integer, 16
+integer, 17
+integrated circuit, 16
+integration (calculus), 43
+intermediary language, 25
+international space station, 37
+interpreted language, 18
+interpreted language, 25
+interpreter, 25
+ion, 2
+iron, 2
+isotope, 2
+jacquard loom, 36
+kinetic energy, 7
+kinetic theory of gases, 3
+language, 21
+large scale (integration), 26
+laser, 36
+lava, 29
+law of transitivity, 24
+leak (data), 23
+least significant bit, 19
+lepton, 1
+light, 38
+light amplification by stimulated emission of radiation, 38
+light computers, 3
+light year, 3
+linear hierarchy (file system), 48
+linked list, 40
+liquid, 9
+liquid crystal display, 29
+liquid crystal display, 32
+lithium-ion battery, 11
+lithography, 27
+lithos, 27
+load compute store cycle, 33
+logarithm, 40
+logic gates, 14
+logic unit, 24
+logical clock, 30
+lookahead adder, 16
+lookup table, 28
+low-level (programming language), 25
+macOS, 31
+machine code, 25
+macrocell, 28
+macromolecules, 15
+magma, 29
+magnetic core memory, 21
+magnetic field, 5
+magnetic hysteresis, 36
+magnetic tape, 36
+magnetosphere, 9
+major (programming language), 25
+malware analysis, 34
+map (data structure), 41
+maser, 38
+mass, 1
+master boot record, 46
+materials science, 13
+mechanical scale, 43
+mechatronics, 13
+medium scale (integration), 26
+memory, 21
+memory (long-term), 21
+memory (main), 22
+memory (short-term), 21
+memory (working), 21
+memory address register, 33
+memory buffer register, 33
+memory buffer register, 46
+memory effect, 11
+memory leak, 41
+memory management unit, 41
+meson, 1
+metadata, 33
+metadata, 48
+metal-oxide-semiconductor field effect transistor, 13
+metallic bond, 2
+meter-kilogram-second-system, 4
+meter-tonne-second system, 4
+meters per second, 4
+method, 18
+method (OOP), 25
+micro-, 30
+microarchitecture, 34
+microphone, 44
+microprocessor, 37
+mile, 4
+mili, 30
+mineral, 29
+minor (programming language), 25
+minuend, 17
+molecule, 2
+most significant bit, 19
+multiplexer, 14
+n-type (MOSFET), 37
+n-type semiconductor, 13
+nano-, 30
+natural number, 16
+natural number, 17
+negation, 24
+negative (photolithography), 27
+network time protocol, 30
+neutron, 1
+new technology file system, 48
+nitrogen, 2
+noble gas, 2
+noise (electricity), 37
+non-volatile memory, 22
+non-volatile memory, 36
+nucleus, 1
+object (OOP), 25
+object-oriented programming, 25
+observation (physics), 15
+offset (parameter), 40
+op-code, 34
+open-source, 25
+open-source movement, 46
+operating system, 46
+operation code, 34
+oscillator, 30
+overclocking, 30
+overflow, 24
+oxygen, 2
+ozone layer, 37
+p-type (MOSFET), 37
+p-type semiconductor, 13
+parallel (computing), 16
+paramagnet, 5
+parasitic capacitance, 23
+parity bit, 47
+particle, 1
+partition (memory), 46
+passphrase, 20
+password, 20
+patch, 23
+peirce oscillator, 33
+pentaquark, 1
+periodic table, 2
+permanent magnet, 5
+persistence (information), 21
+persistence (memory), 21
+phonon, 45
+phosphorus, 13
+photo, 27
+photoelectric effect, 7
+photoelectric effect, 27
+photoelectric effect, 39
+photolithography, 27
+photon, 1
+photoresist, 27
+physical properties, 2
+piezoelectricity, 30
+pint, 4
+plagioclase, 29
+plaintext, 20
+plug type, 10
+plutonium, 2
+point-contact transistor, 13
+pointer, 42
+polaroid camera, 36
+polynomial, 18
+polynomial interpolation, 35
+positive (photolithography), 27
+potential energy, 5
+power, 4
+power-on self-test, 46
+pressure sensor, 44
+printed circuit board, 34
+printing press, 27
+probability density function, 2
+procedural knowledge, 42
+procedural programming, 25
+program counter, 33
+programmable ROM, 39
+programmable logic arrays, 28
+programmable read-only memory, 21
+programmer, 25
+programming, 25
+programming language, 25
+programming paradigms, 25
+projector, 44
+proton, 1
+punch card, 36
+quality assurance, 23
+quanta, 1
+quantum, 1
+quantum computer, 14
+quantum information, 3
+quantum physics, 15
+quantum teleportation, 27
+quark, 1
+quarter (measurement), 4
+quartz crystal, 30
+quarz, 27
+quarz, 29
+queue, 40
+radiation, 38
+radiation hardened-by-design MOSFET, 37
+radioactivity, 2
+radix point, 16
+radix point, 17
+radix point, 19
+radix point, 43
+random access memory, 21
+read-only memory, 39
+real-time clock, 30
+recon, 23
+reconaissance, 23
+record (booting), 46
+rectifier, 7
+rectifier, 12
+red team, 23
+redox, 11
+redstone, 26
+registers (memory), 21
+relay, 13
+release (memory), 25
+reprogrammable (memory), 39
+reserve (memory), 25
+resistance (electrical), 6
+resistor, 6
+reverberation, 30
+reversible computing, 14
+rheostat, 12
+ripple-carry adder, 16
+round-robin scheduling, 40
+ruby, 38
+ruler, 43
+runtime error, 25
+rutherfordium, 2
+satoshi, 28
+scripting language, 25
+second (generation of programming languages), 25
+security (communication), 20
+security (computer), 20
+security (information), 20
+security (procedural), 20
+security (time-variant), 20
+security by obfuscation, 28
+selector, 17
+selector (digital gates), 16
+selector (digital logic), 14
+semiconductor, 13
+sensor, 37
+shift (digital operation), 24
+short circuit, 6
+shortest path problem, 18
+sign flag, 24
+silicon wafer, 27
+silver, 2
+sinusiodal, 30
+slide rule, 43
+small scale (integration), 26
+social engineering, 23
+software, 25
+software, 34
+solar wind, 9
+solar wind, 37
+solid, 9
+solid state physics, 1
+sorted array, 40
+sorting algorithm, 18
+sound, 45
+source code, 25
+space complexity, 18
+special relativity, 3
+specific heat capacity, 29
+speculative execution, 23
+speed, 4
+spider (sound), 45
+spin, 1
+spin, 5
+stack, 40
+statement (programming), 25
+static (programming language), 25
+static random access memory, 21
+status register, 24
+step-down transformer, 8
+step-up transformer (electricity), 8
+stimulated emission, 38
+stochastic process, 29
+stone (measurement), 4
+strong force, 1
+subroutine, 18
+substrate, 27
+subtractor, 16
+subtractors, 17
+subtrahend, 16
+subtrahend, 17
+superconducting mateirals, 13
+syntax error, 25
+tactile perception, 45
+telegram, 3
+telegraph, 9
+tensile strength, 29
+thermionic tubes, 21
+third (generation of programming languages), 25
+thumb drive, 39
+thyristor, 12
+thyristor, 30
+tide prediction machine, 43
+time complexity, 18
+time continuity, 30
+tombstones, 21
+transducer, 45
+transistor, 12
+transistor, 13
+transistor-to-transistor (logic), 26
+translation lookaside buffer, 41
+tree, 40
+trough, 45
+tweet, 31
+twisted pair, 11
+two's complement, 16
+two's complement, 17
+unified extensivle firmware interface, 46
+universal gate, 14
+universal serial bus, 39
+up quark, 1
+uranium, 7
+user interface, 36
+vacuum tube, 13
+valence electron, 2
+variable, 18
+variable, 24
+vendor lock-in, 26
+very large scale (integration), 26
+vibration, 45
+virtual address, 41
+virtual memory, 41
+voice over IP, 47
+volume, 45
+vulnerability, 23
+wavefunction collapse, 45
+weak force, 1
+wind turbine, 7
+wire, 6
+write (memory), 48
+yard, 4
+zero flag, 24
+α-radioactivity, 44
