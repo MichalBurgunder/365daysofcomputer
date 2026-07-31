@@ -1,6 +1,8 @@
 # 365 Days of Computer Code Repo
 
-![logo_365_days_of_computer](365_days_of_computer.png)
+<p align="center">
+  <img src="365_days_of_computer.png" />
+</p>
 
 Many images used and code examples from the long running blog 365 Days of Computer are saved in this repo. The initial few scripts were not documented or checked into version cointrol, hence why a number of code files are not included. All uses of source code after article 49, saved here for deeper scrutiny, and for the purposes of recreation.
 
