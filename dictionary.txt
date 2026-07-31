@@ -1524,19 +1524,502 @@ empty string, 77
 pushdown automata, 77
 PDA, see pushdown automata, 77
 busy beaver problem, 78
-halting problem
-space-time diagram
-cellular automata
-sierpinski's triangle
-rule (cellular automata)
-gene mutation
-gene drift
-survival of the fittest
-homeostasis
-Conway's Game of Life
-video
+halting problem, 78
+space-time diagram, 78
+cellular automata, 78
+sierpinski's triangle, 78
+rule (cellular automata), 78
+gene mutation, 78
+gene drift, 78
+survival of the fittest, 78
+homeostasis, 78
+Conway's Game of Life, 78
+video, 78
+natural language, 79
+Liebeskummer, 79
+Verner's Law, 79
+loverd, 79
+Lord, 79
+conjugation, 79
+negation, 79
+formal language, 79
+alphabet (formal language theory), 79
+letters (formal language theory), 79
+word (formal language theory), 79
+Kleene Star, 79
+power set, 79
+set theory, 79
+subset, 79
+undefined behaviour, 79
+grammar, 79
+polysemy, 79
+regular languages, 79
+regular expression, 79
+Boyer-Moore algorithm, 79
+wild card, 79
+back reference, 79
+forward reference, 79
+regex, 79
+word (computer hardware), 79
+counting, 80
+bigger than, 80
+axiom, 80
+zero, 80
+rational numbers, 80
+fractions, 80
+real numbers, 80
+lambda calculus, 80
+lambda expression, 80
+identity function, 80
+semantics, 80
+functional programming, 80
+static content, 80
+Church encoding, 80
+Gödel numbering, 80
+negation, 80
+Weierstrass function, 81
+real analysis, 81
+Zermelo-Fraenkel set theory, 81
+Entscheidungsproblem, 81
+symbolic logic, 81
+Collatz conjecture, 81
+theorems of incompleteness, 81
+Gödel numbering, 81
+Turing Machine, 81
+computation, 81
+Church-Turing thesis, 81
+halting problem, 81
+infinity, 81
+blank symbol, 81
+linear bounded automaton, 81
+universal Turing machine, 81
+Turing-complete, 81
+Magic the Gathering, 81
+modems, 81
+Z3, 81
+Enigma (machine), 82
+Fields Medal, 82
+computability, 82
+informatics, 82
+Turing award, 82
+Algol, 82
+software engineering, 82
+Computer science, 82
+Association of Computing Machinery, 82
+ACM, see Association of Computing Machinery, 82
+Communications of the ACM, 82
+metaphysics, 82
+philosophy, 82
+interdisciplinarity, 82
+natural philosophy, 82
+enumerable, 83
+aleph zero, 83
+i (number), 83
+Cantor's diagonalization argument, 83
+Chaitin's Omega, 83
+Ω (chaitin), 83
+static questions, 83
+rice's theorem, 83
+jump, 83
+recursive, 83
+general recursive functions, 83
+programming styles, 83
+domain, 83
+total recursive function, 83
+primitive recursive function, 83
+projection function, 83
+composition function, 83
+recursive operator, 83
+Ackermann function, 83
+static analysis, 84
+initial conditions, 84
+domain (math), 84
+execution tree, 84
+execution path, 84
+linear growth, 84
+geometric growth, 84
+Kripke Structure, 84
+computational path, 84
+depth-first search, 84
+breadth-first search, 84
+state explosion problem, 84
+software verification, 84
+const (keyword), 84
+texture (graphics), 84
+computational tree, 84
+philosophy, 84
+type specifier, 84
+law of excluded middle, 85
+contradiction, 85
+relativism, 85
+Begriffschrift, 85
+proposition (logic), 85
+imply (logic), 85
+propositional logic, 85
+Quantification, 85
+implication, 85
+first order logic, 85
+biconditional, 85
+a priori, 85
+a posteriori, 85
+modus ponens, 85
+hoare logic, 85
+precondition, 85
+postcondition, 85
+imperative programming language, 85
+command, 85
+linear temporal logic, 85
+temporal logic, 85
+computational tree logic, 85
+decision problem, 86
+deterministic Turing machine, 86
+non-deterministic Turing machine, 86
+DTM, see deterministic Turing machine, 86
+NTM, see non-deterministic Turing machine, 86
+cartesian product, 86
+knapsack problem, 86
+length (of a string), 86
+propositional logic, 86
+operator (mathematics), 86
+formula, 86
+atom (logic), 86
+graph, 86
+satisfiable, 86
+deterministic polynomial time, 86
+SAT problem, 86
+NP-hard, 86
+NP-complete, 86
+NP, 86
+P, 86
+Clique Problem, 86
+Clay Mathematics Foundation, 86
+Millenium Prize, 86
+SAT-solvers, 86
+Approximation algorithm, 86
+linguistics, 88
+langue, 88
+parole, 88
+signified, 88
+signifier, 88
+structuralism (linguistics), 88
+computational linguistics, 88
+natural language processing, 88
+Chomsky Hierarchy, 88
+recursively enumerable languages, 88
+context-sensitive languages, 88
+context-free languages, 88
+grammar, 88
+grammar rules, 88
+production rules, 88
+terminal (formal language theory), 88
+non-terminals (formal language theory), 88
+Chomsky Normal Form, 88
+pumping lemma, 88
+pumping lemma for context-free languages, 88
+programming language theory, 88
+concrete syntax tree, 88
+abtract syntax tree, 88
+Myhill-Nerode theorem, 88
+typography, 89
+character (typography), 89
+glyph, 89
+grapheme, 89
+diacritic, 89
+letter (typography), 89
+alphabet, 89
+miniscule, 89
+majuscule, 89
+font, 89
+typebars, 89
+typeface, 89
+font-family, 89
+Comics sans, 89
+cursive, 89
+italics, 89
+oblique, 89
+shear, 89
+shear matrix, 89
+superscript, 89
+subscript, 89
+parabola, 89
+hyperbola, 89
+control points (bézier curves), 89
+Bézier curves, 89
+parametric coordinates, 89
+cubic (mathematics), 89
+polynomial, 89
+scanline algorithm, 89
+kerning, 89
+serif, 89
+baseline, 89
+library (software), 89
+Freetype, 89
+continuity (mathematics), 89
+discontinuity (mathematics), 89
+derivative (calculus), 89
+second derivative (calculus), 89
 
+Text highlighting, 90
+etui, 90
+highlighter pen, 90
+syntax highlighting, 90
+Comma Separated Values, 90
+.csv, 90
+headers, 90
+column headers, 90
+font rasterizer, 90
+syntax highlighting, 90
+Apple II, 90
+Unix-like, 90
+nano (software), 90
+Vim, 90
+vi, 90
+.yaml, 90
+.properties, 90
+.java, 90
+.py, 90
+whitespace character, 90
+indentation, 90
+class name, 90
+data pointer, 90
+internal development environment, 90
+IDE, see internal development environment, 90
+unconventional computing, 90
+unconventional computing, 91
+conventional computing, 91
+gravity, 91
+Steiner tree, 91
+billiard ball computer, 91
+fluidic computer, 91
+light computer, 91
+embedded systems, 91
+Internet of Things, 91
+Boltzmann brain, 91
+computational theory of mind, 91
+materialism, 91
+God, 91
+Quantum computing, 91
+DNA computing, 91
+amino acid, 91
+Bitcoin, 91
+ERP paradox, see Einstein-Podolsky-Rosen paradox, 92
+Einstein-Podolsky-Rosen paradox, 92
+locality, 92
+quantum computing, 92
+quantum fluctuation, 92
+quanta, 92
+quantum, 92
+dark matter, 92
+gluon color change, 92
+entanglement, 92
+Newtonian physics, 92
+classical physics, 92
+quantum physics, 92
+Heisenberg uncertainty principle, 92
+qubit, 92
+Quantum dots, 92
+Deutsch Algorithm, 92
+probability amplitude, 92
+probability sphere, 92
+Hadamard gate, 92
+Phase Shift Gate, 92
+unitary matrix, 92
+Pauli matrices, 92
+identity matrix, 92
+linear combination, 92
+phase kickback, 92
+Deutsch-Jonza algorithm, 92
+Quantum Turing Machines, 92
+QTM, see Quantum Turing Machines, 92
+quantum algorithmic complexity class, 92
+Harvard Mark I, 94
+Manhattan Project, 94
+Atanasoff-Berry computer, 94
+ABC, see Atanasoff-Berry computer, 94
+Colossus (computer), 94
+programmable (computer), 94
+Lorenz cipher, 94
+ENIAC, see Electronic Numerical Integrator And Computer, 94
+Electronic Numerical Integrator And Computer, 94
+computer hardware, 94
+Antikythera machine, 94
+EDVAC, see Electronic Discrete Variable Automatic Computer, 94
+Electronic Discrete Variable Automatic Computer, 94
+First Draft of a Report on the EDVAC, 94
+As We May Think, 94
+The Atlantic, 94
+ACM, see American Association for Computing Machinery, 94
+American Association for Computing Machinery, 94
+special interest groups, 94
+SIG, see special interest groups, 94
+SIGGRAPH, 94
+SIGCHI, 94
+SIGIR, 94
 
+specific heat capacity, 95
+clock throttling, 95
+passive cooling, 95
+active cooling, 95
+fluid mechanics, 95
+heat sink, 95
+HVAC system, see heating, ventilation and air conditioning, 95
+heating, ventilation and air conditioning, 95
+simulation (software), 95
+Max Turbo mode, 95
+supercomputers, 95
+cold aisle, 95
+hot aisle, 95
+Centro Svizzero di Calcolo Scientifico, 95
+Swiss Center for Scientific Computing, 95
+computer simulations, 97
+Game world, 97
+Sandbox game, 97
+modelling (simulation), 97
+quadratic formula, 97
+3 body problem, 97
+chaos theory, 97
+Lyapunov exponent, 97
+Monte Carlo simulation, 97
+Occam's razor, 97
+laws of physics, 97
+mechanics, 97
+differential equation, 97
+partial differential equation, 97
+ordinary differential equation, 97
+PDE, see partial differential equation, 97
+ODE, see ordinary differential equation, 97
+Runge-Kutta methods, 97
+RK4, see Runge-Kutta methods, 97
+The Sound of Thunder, 97
+Lorenz attractor, 97
+safety-critical software, 97
+model checking, 97
+simulation game, 97
+model (simulation), 97
+Entombed, 97
+Atari 2600, 99
+docs (technical writing), 99
+user stories, 99
+self-documenting source code, 99
+Multi-line comments, 99
+application programming interface, 99
+API, see application programming interface, 99
+parameter, 99
+type (programming language), 99
+README, 99
+markdown, 99
+reStructuredText, 99
+AsciiDoc, 99
+End-user Documentation, 99
+Administrative Documentation, 99
+Developer Documentation, 99
+walk-through, 99
+googling, 99
+request for comments, 99
+RFC, see request for comments, 99
+man (program), 99
+HELP (program), 99
+read the fucking manual, 99
+RTFM, see read the fucking manual, 99
+too long; didn’t read, 99
+TL;DR, see too long; didn’t read, 99
+deep reading, 99
+podcast, 99
+mail, 100
+email, 100
+indexing system, 100
+search query, 100
+hyperlink, 100
+HTML, see hypertext markup language, 100
+hypertext markup language, 100
+search (information retrieval), 100
+The Glassbead Game, 100
+The Magic Mountain, 100
+context (information), 100
+natural language generation, 100
+business, 96
+trade of goods, 96
+payment, 96
+product, 96
+service, 96
+macroeconomics, 96
+microeconomics, 96
+payment, 96
+money, 96
+business function, 96
+buyer, 96
+supply chain, 96
+transaction, 96
+business, 96
+profit margins, 96
+expenditure, 96
+salary, 96
+Hollerith Electric Tabulating System, 96
+tabulating machine, 96
+patent, 96
+selling, 96
+Computing-Tabulating-Recording Company, 96
+merger, 96
+Tabulating Machine Company, 96
+Time Recording Company, 96
+stock, 96
+management, 96
+Watson (computer), 96
+International Business Machines, 96
+IBM, see International Business Machines, 96
+Eckert–Mauchly Computer Corporation, 96
+Remington-Rand Corporation, 96
+Burroughs corporation, 96
+Unisys, 96
+consumer, 96
+batch processing, 96
+mainframe, 96
+vertex cover problem, 87
+benchmark, 87
+boolean satsfiability problem, 87
+SAT problem, 87
+Satisfiability modulo theories solvers, 87
+SMT solvers, 87
+Sudoku, 87
+DPLL algorithm, 87
+conjunctive normal form, 87
+CNF, see conjunctive normal form, 87
+conflict-driven clause learning, 87
+CDCL, see conflict-driven clause learning, 87
+2-SAT problem, 87
+Application problem, 87
+Crafted problem, 87
+Random problem, 87
+graph centrality, 87
+backbone, 87
+backbone literal, 87
+network theory, 87
+community, 87
+restart (SAT solvers), 87
+entropy (SAT solvers), 87
+Small-world (SAT solvers), 87
+phase transition (SAT solvers), 87
+the law, 98
+lawyer, 98
+crime, 98
+law, 98
+Edict of Milan, 98
+illegal, 98
+pyramid scheme, 98
+Ponzi scheme, 98
+patent, 98
+Eckert-Mauchly Computer Corporation, 98
+Sperry-Rand Corporation, 98
+legal entity, 98
+defendent, 98
+trial, 98
+judge, 98
+prosecutor, 98
+defence lawyer, 98
+Legge federale contro la concorrenza sleale, 98
+Legge federale sulla protezione dei dati, 98
+non-fungible tokens, 98
+surveillance, 98
 
 
 
