@@ -25,11 +25,10 @@ mexico_filter = np.array([[0.7, 0, 0], # blue
 
 
 # Example usage
-image_input_name = "vierwaldstättersee.jpg"
+image_input_name = "egypt_desert_long.png"
+image_output_name = "matrix_" + image_input_name
+apply_color_filter(image_input_name, image_output_name, matrix_filter)
+
+image_input_name = "egypt_desert_long.png"
 image_output_name = "mexico_" + image_input_name
 apply_color_filter(image_input_name, image_output_name, mexico_filter)
-
-image_input_name = "city.jpg"
-image_output_name = "matrix_" + image_input_name
-
-apply_color_filter(image_input_name, image_output_name, matrix_filter)
