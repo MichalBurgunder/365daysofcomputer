@@ -420,7 +420,7 @@ speculative execution, 23
 Rowhammer effect, 23
 parasitic capacitance, 23
 corruption (data), 23
-denial of service attach, 23
+denial of service attack, 23
 DoS, 23
 leak (data), 23
 Boolean algebra, 24
@@ -1425,7 +1425,6 @@ conditional, 73
 while loop, 73
 for loop, 73
 goto, 73
-linear congruential generator, 73
 list (programming), 73
 little-endian, 73
 conditional branching, 73
@@ -2020,7 +2019,11 @@ Legge federale contro la concorrenza sleale, 98
 Legge federale sulla protezione dei dati, 98
 non-fungible tokens, 98
 surveillance, 98
-
+Kepler's laws, 97
+epicycles, 97
+Euler's method, 97
+derivative, 97
+CSCS, 95
 
 
 
